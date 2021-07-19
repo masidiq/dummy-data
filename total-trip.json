@@ -1,4 +1,19 @@
 {
-    
-    "test":234
-}
+    "TripPlan": {
+      "Total": 500,
+      "Approved": 350,
+      "NotApproved": 150
+    },
+    "Approved": {
+      "Total": 500,
+      "CbtTraveloka": 100,
+      "CbtMitra": 250,
+      "NonCbt": 150
+    },
+    "NotApproved": {
+      "Total": 500,
+      "Waiting": 100,
+      "Cancelled": 250,
+      "Rejected": 150
+    }
+  }
