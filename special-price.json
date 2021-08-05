@@ -5,7 +5,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "1708",
-            "Harga Jual": "4000",
+            "HargaJual": "4000",
             "Diskon": "0",
             "Profit": "2292"
         },
@@ -15,7 +15,7 @@
             "Merk": "RAJAWALI",
             "Satuan": "PACK",
             "HPP": "25500",
-            "Harga Jual": "26500",
+            "HargaJual": "26500",
             "Diskon": "0",
             "Profit": "1000"
         },
@@ -25,7 +25,7 @@
             "Merk": "E-PAPER",
             "Satuan": "RIM",
             "HPP": "35000",
-            "Harga Jual": "43500",
+            "HargaJual": "43500",
             "Diskon": "0",
             "Profit": "8500"
         },
@@ -35,7 +35,7 @@
             "Merk": "LUVE TAPE",
             "Satuan": "ROLL",
             "HPP": "7650",
-            "Harga Jual": "12500",
+            "HargaJual": "12500",
             "Diskon": "0",
             "Profit": "4850"
         },
@@ -45,7 +45,7 @@
             "Merk": "",
             "Satuan": "ROL",
             "HPP": "6500",
-            "Harga Jual": "13000",
+            "HargaJual": "13000",
             "Diskon": "0",
             "Profit": "6500"
         },
@@ -55,7 +55,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "4000",
-            "Harga Jual": "25000",
+            "HargaJual": "25000",
             "Diskon": "5",
             "Profit": "19750"
         },
@@ -65,7 +65,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "8750",
-            "Harga Jual": "11750",
+            "HargaJual": "11750",
             "Diskon": "5",
             "Profit": "2412.5"
         },
@@ -75,7 +75,7 @@
             "Merk": "",
             "Satuan": "LSN",
             "HPP": "13000",
-            "Harga Jual": "19800",
+            "HargaJual": "19800",
             "Diskon": "5",
             "Profit": "5810"
         },
@@ -85,7 +85,7 @@
             "Merk": "ABC",
             "Satuan": "PCS",
             "HPP": "3750",
-            "Harga Jual": "6500",
+            "HargaJual": "6500",
             "Diskon": "5",
             "Profit": "2425"
         },
@@ -95,7 +95,7 @@
             "Merk": "ABC",
             "Satuan": "PCS",
             "HPP": "3875",
-            "Harga Jual": "5500",
+            "HargaJual": "5500",
             "Diskon": "0",
             "Profit": "1625"
         },
@@ -105,7 +105,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "12500",
-            "Harga Jual": "16500",
+            "HargaJual": "16500",
             "Diskon": "5",
             "Profit": "3175"
         },
@@ -115,7 +115,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "6000",
-            "Harga Jual": "7500",
+            "HargaJual": "7500",
             "Diskon": "0",
             "Profit": "1500"
         },
@@ -125,7 +125,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "6000",
-            "Harga Jual": "7500",
+            "HargaJual": "7500",
             "Diskon": "0",
             "Profit": "1500"
         },
@@ -135,7 +135,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "2000",
-            "Harga Jual": "5000",
+            "HargaJual": "5000",
             "Diskon": "5",
             "Profit": "2750"
         },
@@ -144,7 +144,7 @@
             "NamaBarang": "CUTTER KENKO KECIL A-300",
             "Satuan": "PCS",
             "HPP": "4250",
-            "Harga Jual": "5500",
+            "HargaJual": "5500",
             "Diskon": "0",
             "Profit": "1250"
         },
@@ -154,7 +154,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "10550",
-            "Harga Jual": "13750",
+            "HargaJual": "13750",
             "Diskon": "5",
             "Profit": "2512.5"
         },
@@ -164,7 +164,7 @@
             "Merk": "",
             "Satuan": "ROL",
             "HPP": "8500",
-            "Harga Jual": "13000",
+            "HargaJual": "13000",
             "Diskon": "5",
             "Profit": "3850"
         },
@@ -174,7 +174,7 @@
             "Merk": "KENKO",
             "Satuan": "ROLL",
             "HPP": "5000",
-            "Harga Jual": "7500",
+            "HargaJual": "7500",
             "Diskon": "5",
             "Profit": "2125"
         },
@@ -184,7 +184,7 @@
             "Merk": "KENKO",
             "Satuan": "ROLL",
             "HPP": "2500",
-            "Harga Jual": "3500",
+            "HargaJual": "3500",
             "Diskon": "5",
             "Profit": "825"
         },
@@ -193,7 +193,7 @@
             "NamaBarang": "ISI CUTTER KENKO BESAR L-150",
             "Satuan": "TUB",
             "HPP": "3000",
-            "Harga Jual": "6000",
+            "HargaJual": "6000",
             "Diskon": "5",
             "Profit": "2700"
         },
@@ -203,7 +203,7 @@
             "Merk": "",
             "Satuan": "TUB",
             "HPP": "2500",
-            "Harga Jual": "3500",
+            "HargaJual": "3500",
             "Diskon": "5",
             "Profit": "825"
         },
@@ -213,7 +213,7 @@
             "Merk": "ETONA",
             "Satuan": "PACK",
             "HPP": "19000",
-            "Harga Jual": "33000",
+            "HargaJual": "33000",
             "Diskon": "5",
             "Profit": "12350"
         },
@@ -223,7 +223,7 @@
             "Merk": "CONCOR",
             "Satuan": "LEMBAR",
             "HPP": "125",
-            "Harga Jual": "950",
+            "HargaJual": "950",
             "Diskon": "5",
             "Profit": "777.5"
         },
@@ -233,7 +233,7 @@
             "Merk": "CONCOR",
             "Satuan": "LEMBAR",
             "HPP": "125",
-            "Harga Jual": "650",
+            "HargaJual": "650",
             "Diskon": "5",
             "Profit": "492.5"
         },
@@ -243,7 +243,7 @@
             "Merk": "BOLA DUNIA",
             "Satuan": "RIM",
             "HPP": "38750",
-            "Harga Jual": "46500",
+            "HargaJual": "46500",
             "Diskon": "5",
             "Profit": "5425"
         },
@@ -253,7 +253,7 @@
             "Merk": "PRATAMA JAYA",
             "Satuan": "ROLL",
             "HPP": "5000",
-            "Harga Jual": "9850",
+            "HargaJual": "9850",
             "Diskon": "5",
             "Profit": "4357.5"
         },
@@ -263,7 +263,7 @@
             "Merk": "OTANI",
             "Satuan": "ROLL",
             "HPP": "12000",
-            "Harga Jual": "20000",
+            "HargaJual": "20000",
             "Diskon": "0",
             "Profit": "8000"
         },
@@ -273,7 +273,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "8500",
-            "Harga Jual": "11500",
+            "HargaJual": "11500",
             "Diskon": "5",
             "Profit": "2425"
         },
@@ -283,7 +283,7 @@
             "Merk": "",
             "Satuan": "BOX",
             "HPP": "30000",
-            "Harga Jual": "36500",
+            "HargaJual": "36500",
             "Diskon": "5",
             "Profit": "4675"
         },
@@ -293,7 +293,7 @@
             "Merk": "",
             "Satuan": "BOX",
             "HPP": "10500",
-            "Harga Jual": "16500",
+            "HargaJual": "16500",
             "Diskon": "5",
             "Profit": "5175"
         },
@@ -303,7 +303,7 @@
             "Merk": "",
             "Satuan": "ROL",
             "HPP": "6500",
-            "Harga Jual": "13000",
+            "HargaJual": "13000",
             "Diskon": "5",
             "Profit": "5850"
         },
@@ -313,7 +313,7 @@
             "Merk": "NACHI",
             "Satuan": "ROL",
             "HPP": "8250",
-            "Harga Jual": "12500",
+            "HargaJual": "12500",
             "Diskon": "5",
             "Profit": "3625"
         },
@@ -323,7 +323,7 @@
             "Merk": "NACHI",
             "Satuan": "ROL",
             "HPP": "8250",
-            "Harga Jual": "12500",
+            "HargaJual": "12500",
             "Diskon": "5",
             "Profit": "3625"
         },
@@ -333,7 +333,7 @@
             "Merk": "SNOWMAN",
             "Satuan": "PCS",
             "HPP": "750",
-            "Harga Jual": "1000",
+            "HargaJual": "1000",
             "Diskon": "5",
             "Profit": "200"
         },
@@ -342,7 +342,7 @@
             "NamaBarang": "STAPLER MAX HD-10",
             "Satuan": "PCS",
             "HPP": "12250",
-            "Harga Jual": "16000",
+            "HargaJual": "16000",
             "Diskon": "5",
             "Profit": "2950"
         },
@@ -352,7 +352,7 @@
             "Merk": "EPSON",
             "Satuan": "PCS",
             "HPP": "75000",
-            "Harga Jual": "99500",
+            "HargaJual": "99500",
             "Diskon": "5",
             "Profit": "19525"
         },
@@ -362,7 +362,7 @@
             "Merk": "FOX",
             "Satuan": "PACK",
             "HPP": "18000",
-            "Harga Jual": "20959",
+            "HargaJual": "20959",
             "Diskon": "0",
             "Profit": "2959"
         },
@@ -372,7 +372,7 @@
             "Merk": "SAMSON",
             "Satuan": "PACK",
             "HPP": "37000",
-            "Harga Jual": "46750",
+            "HargaJual": "46750",
             "Diskon": "0",
             "Profit": "9750"
         },
@@ -382,7 +382,7 @@
             "Merk": "GAND",
             "Satuan": "PACK",
             "HPP": "22500",
-            "Harga Jual": "26750",
+            "HargaJual": "26750",
             "Diskon": "0",
             "Profit": "4250"
         },
@@ -392,7 +392,7 @@
             "Merk": "JAYA",
             "Satuan": "PACK",
             "HPP": "11750",
-            "Harga Jual": "14500",
+            "HargaJual": "14500",
             "Diskon": "0",
             "Profit": "2750"
         },
@@ -402,7 +402,7 @@
             "Merk": "FASTER",
             "Satuan": "LUSIN",
             "HPP": "24500",
-            "Harga Jual": "29500",
+            "HargaJual": "29500",
             "Diskon": "0",
             "Profit": "5000"
         },
@@ -412,7 +412,7 @@
             "Merk": "JOYKO",
             "Satuan": "LUSIN",
             "HPP": "25000",
-            "Harga Jual": "40000",
+            "HargaJual": "40000",
             "Diskon": "0",
             "Profit": "15000"
         },
@@ -422,7 +422,7 @@
             "Merk": "ZEBRA",
             "Satuan": "PCS",
             "HPP": "13750",
-            "Harga Jual": "19500",
+            "HargaJual": "19500",
             "Diskon": "0",
             "Profit": "5750"
         },
@@ -432,7 +432,7 @@
             "Merk": "",
             "Satuan": "LSN",
             "HPP": "13000",
-            "Harga Jual": "19000",
+            "HargaJual": "19000",
             "Diskon": "0",
             "Profit": "6000"
         },
@@ -442,7 +442,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "1708",
-            "Harga Jual": "3750",
+            "HargaJual": "3750",
             "Diskon": "0",
             "Profit": "2042"
         },
@@ -452,7 +452,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "5500",
-            "Harga Jual": "8500",
+            "HargaJual": "8500",
             "Diskon": "0",
             "Profit": "3000"
         },
@@ -462,7 +462,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "14500",
-            "Harga Jual": "17500",
+            "HargaJual": "17500",
             "Diskon": "0",
             "Profit": "3000"
         },
@@ -472,7 +472,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "12500",
-            "Harga Jual": "17500",
+            "HargaJual": "17500",
             "Diskon": "0",
             "Profit": "5000"
         },
@@ -482,7 +482,7 @@
             "Merk": "GELATIK",
             "Satuan": "PCS",
             "HPP": "27500",
-            "Harga Jual": "32250",
+            "HargaJual": "32250",
             "Diskon": "0",
             "Profit": "4750"
         },
@@ -492,7 +492,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "6000",
-            "Harga Jual": "8500",
+            "HargaJual": "8500",
             "Diskon": "0",
             "Profit": "2500"
         },
@@ -502,7 +502,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "23500",
-            "Harga Jual": "29500",
+            "HargaJual": "29500",
             "Diskon": "0",
             "Profit": "6000"
         },
@@ -512,7 +512,7 @@
             "Merk": "MIRAGE",
             "Satuan": "PCS",
             "HPP": "32000",
-            "Harga Jual": "38500",
+            "HargaJual": "38500",
             "Diskon": "0",
             "Profit": "6500"
         },
@@ -522,7 +522,7 @@
             "Merk": "BINTANG OBOR",
             "Satuan": "PCS",
             "HPP": "90000",
-            "Harga Jual": "96500",
+            "HargaJual": "96500",
             "Diskon": "0",
             "Profit": "6500"
         },
@@ -532,7 +532,7 @@
             "Merk": "KIKY",
             "Satuan": "PCS",
             "HPP": "12000",
-            "Harga Jual": "15000",
+            "HargaJual": "15000",
             "Diskon": "0",
             "Profit": "3000"
         },
@@ -542,7 +542,7 @@
             "Merk": "SINAR LINE",
             "Satuan": "PCS",
             "HPP": "0",
-            "Harga Jual": "5500",
+            "HargaJual": "5500",
             "Diskon": "0",
             "Profit": "5500"
         },
@@ -552,7 +552,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "10550",
-            "Harga Jual": "14500",
+            "HargaJual": "14500",
             "Diskon": "0",
             "Profit": "3950"
         },
@@ -562,7 +562,7 @@
             "Merk": "KENKO",
             "Satuan": "ROLL",
             "HPP": "5000",
-            "Harga Jual": "7000",
+            "HargaJual": "7000",
             "Diskon": "0",
             "Profit": "2000"
         },
@@ -572,7 +572,7 @@
             "Merk": "KENKO",
             "Satuan": "ROLL",
             "HPP": "2500",
-            "Harga Jual": "3500",
+            "HargaJual": "3500",
             "Diskon": "0",
             "Profit": "1000"
         },
@@ -582,7 +582,7 @@
             "Merk": "SANDISK",
             "Satuan": "PCS",
             "HPP": "65000",
-            "Harga Jual": "80000",
+            "HargaJual": "80000",
             "Diskon": "0",
             "Profit": "15000"
         },
@@ -592,7 +592,7 @@
             "Merk": "SANDISK",
             "Satuan": "PCS",
             "HPP": "50000",
-            "Harga Jual": "76000",
+            "HargaJual": "76000",
             "Diskon": "0",
             "Profit": "26000"
         },
@@ -602,7 +602,7 @@
             "Merk": "SANDISK",
             "Satuan": "PCS",
             "HPP": "45000",
-            "Harga Jual": "60000",
+            "HargaJual": "60000",
             "Diskon": "0",
             "Profit": "15000"
         },
@@ -612,7 +612,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "3600",
-            "Harga Jual": "6500",
+            "HargaJual": "6500",
             "Diskon": "1",
             "Profit": "2835"
         },
@@ -622,7 +622,7 @@
             "Merk": "",
             "Satuan": "DUS",
             "HPP": "70000",
-            "Harga Jual": "84000",
+            "HargaJual": "84000",
             "Diskon": "0",
             "Profit": "14000"
         },
@@ -632,7 +632,7 @@
             "Merk": "RAJAWALI",
             "Satuan": "PACK",
             "HPP": "25500",
-            "Harga Jual": "29500",
+            "HargaJual": "29500",
             "Diskon": "0",
             "Profit": "4000"
         },
@@ -642,7 +642,7 @@
             "Merk": "E-PAPER",
             "Satuan": "RIM",
             "HPP": "35000",
-            "Harga Jual": "37500",
+            "HargaJual": "37500",
             "Diskon": "0",
             "Profit": "2500"
         },
@@ -652,7 +652,7 @@
             "Merk": "E-PAPER",
             "Satuan": "RIM",
             "HPP": "40000",
-            "Harga Jual": "44363",
+            "HargaJual": "44363",
             "Diskon": "0",
             "Profit": "4363"
         },
@@ -662,7 +662,7 @@
             "Merk": "",
             "Satuan": "PAK",
             "HPP": "28500",
-            "Harga Jual": "37750",
+            "HargaJual": "37750",
             "Diskon": "0",
             "Profit": "9250"
         },
@@ -672,7 +672,7 @@
             "Merk": "",
             "Satuan": "PAK",
             "HPP": "20000",
-            "Harga Jual": "27000",
+            "HargaJual": "27000",
             "Diskon": "0",
             "Profit": "7000"
         },
@@ -682,7 +682,7 @@
             "Merk": "DIAKOL",
             "Satuan": "PCS",
             "HPP": "5250",
-            "Harga Jual": "7500",
+            "HargaJual": "7500",
             "Diskon": "0",
             "Profit": "2250"
         },
@@ -692,7 +692,7 @@
             "Merk": "DIAKOL",
             "Satuan": "PCS",
             "HPP": "0",
-            "Harga Jual": "18000",
+            "HargaJual": "18000",
             "Diskon": "0",
             "Profit": "18000"
         },
@@ -701,7 +701,7 @@
             "NamaBarang": "MAP BUSINEES FILE F4",
             "Satuan": "PCS",
             "HPP": "2083",
-            "Harga Jual": "3750",
+            "HargaJual": "3750",
             "Diskon": "0",
             "Profit": "1667"
         },
@@ -711,7 +711,7 @@
             "Merk": "",
             "Satuan": "PAK",
             "HPP": "12000",
-            "Harga Jual": "18000",
+            "HargaJual": "18000",
             "Diskon": "0",
             "Profit": "6000"
         },
@@ -721,7 +721,7 @@
             "Merk": "BIOLA",
             "Satuan": "PACK",
             "HPP": "52000",
-            "Harga Jual": "62500",
+            "HargaJual": "62500",
             "Diskon": "0",
             "Profit": "10500"
         },
@@ -731,7 +731,7 @@
             "Merk": "",
             "Satuan": "PAK",
             "HPP": "55000",
-            "Harga Jual": "67500",
+            "HargaJual": "67500",
             "Diskon": "0",
             "Profit": "12500"
         },
@@ -741,7 +741,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "8500",
-            "Harga Jual": "11475",
+            "HargaJual": "11475",
             "Diskon": "0",
             "Profit": "2975"
         },
@@ -751,7 +751,7 @@
             "Merk": "AS",
             "Satuan": "PACK",
             "HPP": "28000",
-            "Harga Jual": "32750",
+            "HargaJual": "32750",
             "Diskon": "0",
             "Profit": "4750"
         },
@@ -760,7 +760,7 @@
             "NamaBarang": "ORDNER BENEX FOLIO",
             "Satuan": "PCS",
             "HPP": "13068",
-            "Harga Jual": "22325",
+            "HargaJual": "22325",
             "Diskon": "0",
             "Profit": "9257"
         },
@@ -770,7 +770,7 @@
             "Merk": "",
             "Satuan": "BOX",
             "HPP": "30000",
-            "Harga Jual": "40500",
+            "HargaJual": "40500",
             "Diskon": "0",
             "Profit": "10500"
         },
@@ -780,7 +780,7 @@
             "Merk": "",
             "Satuan": "BOX",
             "HPP": "10500",
-            "Harga Jual": "16500",
+            "HargaJual": "16500",
             "Diskon": "0",
             "Profit": "6000"
         },
@@ -790,7 +790,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "16000",
-            "Harga Jual": "21500",
+            "HargaJual": "21500",
             "Diskon": "0",
             "Profit": "5500"
         },
@@ -800,7 +800,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "7500",
-            "Harga Jual": "10125",
+            "HargaJual": "10125",
             "Diskon": "0",
             "Profit": "2625"
         },
@@ -810,7 +810,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "32500",
-            "Harga Jual": "45000",
+            "HargaJual": "45000",
             "Diskon": "0",
             "Profit": "12500"
         },
@@ -820,7 +820,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "2500",
-            "Harga Jual": "3375",
+            "HargaJual": "3375",
             "Diskon": "0",
             "Profit": "875"
         },
@@ -830,7 +830,7 @@
             "Merk": "",
             "Satuan": "ROL",
             "HPP": "6500",
-            "Harga Jual": "13000",
+            "HargaJual": "13000",
             "Diskon": "0",
             "Profit": "6500"
         },
@@ -840,7 +840,7 @@
             "Merk": "NACHI",
             "Satuan": "ROL",
             "HPP": "8250",
-            "Harga Jual": "12500",
+            "HargaJual": "12500",
             "Diskon": "0",
             "Profit": "4250"
         },
@@ -850,7 +850,7 @@
             "Merk": "T & J",
             "Satuan": "PACK",
             "HPP": "6000",
-            "Harga Jual": "9750",
+            "HargaJual": "9750",
             "Diskon": "0",
             "Profit": "3750"
         },
@@ -860,7 +860,7 @@
             "Merk": "T & J",
             "Satuan": "PACK",
             "HPP": "6000",
-            "Harga Jual": "11000",
+            "HargaJual": "11000",
             "Diskon": "0",
             "Profit": "5000"
         },
@@ -870,7 +870,7 @@
             "Merk": "SNOWMAN",
             "Satuan": "PCS",
             "HPP": "5125",
-            "Harga Jual": "7250",
+            "HargaJual": "7250",
             "Diskon": "0",
             "Profit": "2125"
         },
@@ -880,7 +880,7 @@
             "Merk": "SNOWMAN",
             "Satuan": "PCS",
             "HPP": "750",
-            "Harga Jual": "1250",
+            "HargaJual": "1250",
             "Diskon": "0",
             "Profit": "500"
         },
@@ -890,7 +890,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "6500",
-            "Harga Jual": "8000",
+            "HargaJual": "8000",
             "Diskon": "0",
             "Profit": "1500"
         },
@@ -899,7 +899,7 @@
             "NamaBarang": "STAPLER MAX HD-10",
             "Satuan": "PCS",
             "HPP": "12250",
-            "Harga Jual": "16000",
+            "HargaJual": "16000",
             "Diskon": "0",
             "Profit": "3750"
         },
@@ -909,7 +909,7 @@
             "Merk": "MAX",
             "Satuan": "PCS",
             "HPP": "55000",
-            "Harga Jual": "68500",
+            "HargaJual": "68500",
             "Diskon": "0",
             "Profit": "13500"
         },
@@ -918,7 +918,7 @@
             "NamaBarang": "STAPLER SDI NO. 1140",
             "Satuan": "PCS",
             "HPP": "265000",
-            "Harga Jual": "332000",
+            "HargaJual": "332000",
             "Diskon": "0",
             "Profit": "67000"
         },
@@ -928,7 +928,7 @@
             "Merk": "SDI",
             "Satuan": "PCS",
             "HPP": "553000",
-            "Harga Jual": "614500",
+            "HargaJual": "614500",
             "Diskon": "0",
             "Profit": "61500"
         },
@@ -938,7 +938,7 @@
             "Merk": "EPSON",
             "Satuan": "PCS",
             "HPP": "75000",
-            "Harga Jual": "85000",
+            "HargaJual": "85000",
             "Diskon": "0",
             "Profit": "10000"
         },
@@ -948,7 +948,7 @@
             "Merk": "ARTLINE",
             "Satuan": "PCS",
             "HPP": "18000",
-            "Harga Jual": "25000",
+            "HargaJual": "25000",
             "Diskon": "5",
             "Profit": "5750"
         },
@@ -958,7 +958,7 @@
             "Merk": "YAMURA",
             "Satuan": "PCS",
             "HPP": "8500",
-            "Harga Jual": "9500",
+            "HargaJual": "9500",
             "Diskon": "0",
             "Profit": "1000"
         },
@@ -968,7 +968,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "2375",
-            "Harga Jual": "6000",
+            "HargaJual": "6000",
             "Diskon": "0",
             "Profit": "3625"
         },
@@ -978,7 +978,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "23000",
-            "Harga Jual": "33500",
+            "HargaJual": "33500",
             "Diskon": "10",
             "Profit": "7150"
         },
@@ -988,7 +988,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "43000",
-            "Harga Jual": "57500",
+            "HargaJual": "57500",
             "Diskon": "10",
             "Profit": "8750"
         },
@@ -998,7 +998,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "9500",
-            "Harga Jual": "17500",
+            "HargaJual": "17500",
             "Diskon": "10",
             "Profit": "6250"
         },
@@ -1008,7 +1008,7 @@
             "Merk": "ZEBRA",
             "Satuan": "PCS",
             "HPP": "13750",
-            "Harga Jual": "22500",
+            "HargaJual": "22500",
             "Diskon": "10",
             "Profit": "6500"
         },
@@ -1018,7 +1018,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "1708",
-            "Harga Jual": "4500",
+            "HargaJual": "4500",
             "Diskon": "10",
             "Profit": "2342"
         },
@@ -1028,7 +1028,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "5500",
-            "Harga Jual": "9500",
+            "HargaJual": "9500",
             "Diskon": "10",
             "Profit": "3050"
         },
@@ -1038,7 +1038,7 @@
             "Merk": "KENKO",
             "Satuan": "LUSIN",
             "HPP": "14500",
-            "Harga Jual": "21000",
+            "HargaJual": "21000",
             "Diskon": "10",
             "Profit": "4400"
         },
@@ -1047,7 +1047,7 @@
             "NamaBarang": "COMPUTER FILE BANTEX BESAR",
             "Satuan": "PCS",
             "HPP": "43500",
-            "Harga Jual": "58500",
+            "HargaJual": "58500",
             "Diskon": "10",
             "Profit": "9150"
         },
@@ -1057,7 +1057,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "268500",
-            "Harga Jual": "315875",
+            "HargaJual": "315875",
             "Diskon": "10",
             "Profit": "15787.5"
         },
@@ -1067,7 +1067,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "172500",
-            "Harga Jual": "182000",
+            "HargaJual": "182000",
             "Diskon": "0",
             "Profit": "9500"
         },
@@ -1077,7 +1077,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "385000",
-            "Harga Jual": "448000",
+            "HargaJual": "448000",
             "Diskon": "10",
             "Profit": "18200"
         },
@@ -1087,7 +1087,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "252000",
-            "Harga Jual": "325000",
+            "HargaJual": "325000",
             "Diskon": "10",
             "Profit": "40500"
         },
@@ -1097,7 +1097,7 @@
             "Merk": "SINAR DUNIA",
             "Satuan": "RIM",
             "HPP": "38500",
-            "Harga Jual": "51200",
+            "HargaJual": "51200",
             "Diskon": "10",
             "Profit": "7580"
         },
@@ -1107,7 +1107,7 @@
             "Merk": "GE",
             "Satuan": "PAK",
             "HPP": "275000",
-            "Harga Jual": "379000",
+            "HargaJual": "379000",
             "Diskon": "10",
             "Profit": "66100"
         },
@@ -1117,7 +1117,7 @@
             "Merk": "LUVE TAPE",
             "Satuan": "ROLL",
             "HPP": "7650",
-            "Harga Jual": "15000",
+            "HargaJual": "15000",
             "Diskon": "10",
             "Profit": "5850"
         },
@@ -1126,7 +1126,7 @@
             "NamaBarang": "ORDNER BENEX FOLIO",
             "Satuan": "PCS",
             "HPP": "13068",
-            "Harga Jual": "24750",
+            "HargaJual": "24750",
             "Diskon": "10",
             "Profit": "9207"
         },
@@ -1135,7 +1135,7 @@
             "NamaBarang": "ORDNER BENEX KWINTANSI",
             "Satuan": "PCS",
             "HPP": "13068",
-            "Harga Jual": "24750",
+            "HargaJual": "24750",
             "Diskon": "10",
             "Profit": "9207"
         },
@@ -1145,7 +1145,7 @@
             "Merk": "Epson",
             "Satuan": "PCS",
             "HPP": "149499",
-            "Harga Jual": "217500",
+            "HargaJual": "217500",
             "Diskon": "10",
             "Profit": "46251"
         },
@@ -1155,7 +1155,7 @@
             "Merk": "EPSON",
             "Satuan": "BOX",
             "HPP": "200000",
-            "Harga Jual": "360000",
+            "HargaJual": "360000",
             "Diskon": "10",
             "Profit": "124000"
         },
@@ -1165,7 +1165,7 @@
             "Merk": "Hologram",
             "Satuan": "PCS",
             "HPP": "35000",
-            "Harga Jual": "95000",
+            "HargaJual": "95000",
             "Diskon": "10",
             "Profit": "50500"
         },
@@ -1175,7 +1175,7 @@
             "Merk": "Printronix",
             "Satuan": "PCS",
             "HPP": "700000",
-            "Harga Jual": "824500",
+            "HargaJual": "824500",
             "Diskon": "10",
             "Profit": "42050"
         },
@@ -1185,7 +1185,7 @@
             "Merk": "",
             "Satuan": "KG",
             "HPP": "32000",
-            "Harga Jual": "47500",
+            "HargaJual": "47500",
             "Diskon": "10",
             "Profit": "10750"
         },
@@ -1195,7 +1195,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "11000",
-            "Harga Jual": "14750",
+            "HargaJual": "14750",
             "Diskon": "7",
             "Profit": "2717.5"
         },
@@ -1205,7 +1205,7 @@
             "Merk": "FOX",
             "Satuan": "PACK",
             "HPP": "18000",
-            "Harga Jual": "22000",
+            "HargaJual": "22000",
             "Diskon": "8",
             "Profit": "2240"
         },
@@ -1215,7 +1215,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "19250",
-            "Harga Jual": "23389",
+            "HargaJual": "23389",
             "Diskon": "0",
             "Profit": "4139"
         },
@@ -1225,7 +1225,7 @@
             "Merk": "GRAFITY",
             "Satuan": "PCS",
             "HPP": "16000",
-            "Harga Jual": "50600",
+            "HargaJual": "50600",
             "Diskon": "0",
             "Profit": "34600"
         },
@@ -1235,7 +1235,7 @@
             "Merk": "FULLMARK",
             "Satuan": "PCS",
             "HPP": "150000",
-            "Harga Jual": "191520",
+            "HargaJual": "191520",
             "Diskon": "0",
             "Profit": "41520"
         },
@@ -1245,7 +1245,7 @@
             "Merk": "Spectroline",
             "Satuan": "PCS",
             "HPP": "55000",
-            "Harga Jual": "101200",
+            "HargaJual": "101200",
             "Diskon": "0",
             "Profit": "46200"
         },
@@ -1255,7 +1255,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "11000",
-            "Harga Jual": "15750",
+            "HargaJual": "15750",
             "Diskon": "7",
             "Profit": "3647.5"
         },
@@ -1265,7 +1265,7 @@
             "Merk": "FULLMARK",
             "Satuan": "PCS",
             "HPP": "150000",
-            "Harga Jual": "206416",
+            "HargaJual": "206416",
             "Diskon": "0",
             "Profit": "56416"
         },
@@ -1275,7 +1275,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "66000",
-            "Harga Jual": "82500",
+            "HargaJual": "82500",
             "Diskon": "10",
             "Profit": "8250"
         },
@@ -1285,7 +1285,7 @@
             "Merk": "REPY",
             "Satuan": "PACK",
             "HPP": "47000",
-            "Harga Jual": "62000",
+            "HargaJual": "62000",
             "Diskon": "10",
             "Profit": "8800"
         },
@@ -1295,7 +1295,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "14000",
-            "Harga Jual": "21000",
+            "HargaJual": "21000",
             "Diskon": "10",
             "Profit": "4900"
         },
@@ -1305,7 +1305,7 @@
             "Merk": "",
             "Satuan": "PCS",
             "HPP": "7500",
-            "Harga Jual": "10125",
+            "HargaJual": "10125",
             "Diskon": "10",
             "Profit": "1612.5"
         },
@@ -1314,7 +1314,7 @@
             "NamaBarang": "MAP BUSINEES FILE F4",
             "Satuan": "PCS",
             "HPP": "2083",
-            "Harga Jual": "4000",
+            "HargaJual": "4000",
             "Diskon": "10",
             "Profit": "1517"
         },
@@ -1324,7 +1324,7 @@
             "Merk": "GRAFITY",
             "Satuan": "PCS",
             "HPP": "16000",
-            "Harga Jual": "110000",
+            "HargaJual": "110000",
             "Diskon": "7",
             "Profit": "86300"
         },
@@ -1334,7 +1334,7 @@
             "Merk": "Spectroline",
             "Satuan": "PCS",
             "HPP": "55000",
-            "Harga Jual": "110000",
+            "HargaJual": "110000",
             "Diskon": "7",
             "Profit": "47300"
         },
@@ -1344,7 +1344,7 @@
             "Merk": "MULTI H TOWEL",
             "Satuan": "PACK",
             "HPP": "12000",
-            "Harga Jual": "13000",
+            "HargaJual": "13000",
             "Diskon": "5",
             "Profit": "350"
         },
@@ -1354,7 +1354,7 @@
             "Merk": "NICE",
             "Satuan": "ROLL",
             "HPP": "2667",
-            "Harga Jual": "3375",
+            "HargaJual": "3375",
             "Diskon": "5",
             "Profit": "539.25"
         },
@@ -1364,7 +1364,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "409750",
-            "Harga Jual": "459500",
+            "HargaJual": "459500",
             "Diskon": "0",
             "Profit": "49750"
         },
@@ -1374,7 +1374,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "395000",
-            "Harga Jual": "466500",
+            "HargaJual": "466500",
             "Diskon": "0",
             "Profit": "71500"
         },
@@ -1384,7 +1384,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "172500",
-            "Harga Jual": "182000",
+            "HargaJual": "182000",
             "Diskon": "0",
             "Profit": "9500"
         },
@@ -1394,7 +1394,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "236000",
-            "Harga Jual": "261500",
+            "HargaJual": "261500",
             "Diskon": "0",
             "Profit": "25500"
         },
@@ -1404,7 +1404,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "240000",
-            "Harga Jual": "267500",
+            "HargaJual": "267500",
             "Diskon": "0",
             "Profit": "27500"
         },
@@ -1414,7 +1414,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "385000",
-            "Harga Jual": "399000",
+            "HargaJual": "399000",
             "Diskon": "0",
             "Profit": "14000"
         },
@@ -1424,7 +1424,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "396500",
-            "Harga Jual": "431730",
+            "HargaJual": "431730",
             "Diskon": "0",
             "Profit": "35230"
         },
@@ -1434,7 +1434,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "252000",
-            "Harga Jual": "283000",
+            "HargaJual": "283000",
             "Diskon": "0",
             "Profit": "31000"
         },
@@ -1444,7 +1444,7 @@
             "Merk": "PAPER LINE",
             "Satuan": "BOX",
             "HPP": "348000",
-            "Harga Jual": "407160",
+            "HargaJual": "407160",
             "Diskon": "0",
             "Profit": "59160"
         },
@@ -1454,7 +1454,7 @@
             "Merk": "SINAR DUNIA",
             "Satuan": "RIM",
             "HPP": "42000",
-            "Harga Jual": "47750",
+            "HargaJual": "47750",
             "Diskon": "0",
             "Profit": "5750"
         },
@@ -1464,7 +1464,7 @@
             "Merk": "DUNIA MAS",
             "Satuan": "RIM",
             "HPP": "35000",
-            "Harga Jual": "43500",
+            "HargaJual": "43500",
             "Diskon": "0",
             "Profit": "8500"
         },
@@ -1474,7 +1474,7 @@
             "Merk": "Epson",
             "Satuan": "PCS",
             "HPP": "30000",
-            "Harga Jual": "67500",
+            "HargaJual": "67500",
             "Diskon": "0",
             "Profit": "37500"
         },
@@ -1484,7 +1484,7 @@
             "Merk": "Fullmark",
             "Satuan": "PCS",
             "HPP": "60000",
-            "Harga Jual": "90000",
+            "HargaJual": "90000",
             "Diskon": "0",
             "Profit": "30000"
         },
@@ -1494,7 +1494,7 @@
             "Merk": "Epson",
             "Satuan": "PCS",
             "HPP": "30000",
-            "Harga Jual": "53500",
+            "HargaJual": "53500",
             "Diskon": "0",
             "Profit": "23500"
         },
@@ -1504,7 +1504,7 @@
             "Merk": "Epson",
             "Satuan": "PCS",
             "HPP": "35000",
-            "Harga Jual": "55000",
+            "HargaJual": "55000",
             "Diskon": "0",
             "Profit": "20000"
         },
@@ -1514,7 +1514,7 @@
             "Merk": "Epson",
             "Satuan": "PCS",
             "HPP": "8500",
-            "Harga Jual": "15000",
+            "HargaJual": "15000",
             "Diskon": "0",
             "Profit": "6500"
         },
@@ -1524,7 +1524,7 @@
             "Merk": "HP NYLON",
             "Satuan": "PCS",
             "HPP": "9000",
-            "Harga Jual": "12500",
+            "HargaJual": "12500",
             "Diskon": "0",
             "Profit": "3500"
         }
