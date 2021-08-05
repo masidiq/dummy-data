@@ -1,0 +1,5772 @@
+{
+    "Query 2": [
+        {
+            "Name": "PITA SEIKOSHA 5780/SBP-1051",
+            "Merk": "FULLMARK",
+            "Unit": "PCS",
+            "BuyPrice": "150000",
+            "SellPrice": "212800",
+            "Stock": "75"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A01",
+            "Merk": "Hologram",
+            "Unit": "PCS",
+            "BuyPrice": "67500",
+            "SellPrice": "105000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PERJANJIAN MERCHANT MANDIRI",
+            "Unit": "PACK",
+            "BuyPrice": "65000",
+            "SellPrice": "86500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL  80X75",
+            "Merk": "OTANI",
+            "Unit": "ROLL",
+            "BuyPrice": "12000",
+            "SellPrice": "25000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM DIAKOL SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "3375",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAK STEMPEL KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "5400",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISPENSER LION OPP 2 INC BESI",
+            "Merk": "LION",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "35000",
+            "Stock": "-100"
+        },
+        {
+            "Name": "MAP KARTON AS",
+            "Unit": "PAK",
+            "BuyPrice": "12000",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAK STEMPEL PRESIDENT SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "5400",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY 5023",
+            "Merk": "Hologram",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "79800",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON 8766/DFX-8000",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "175000",
+            "Stock": "-10"
+        },
+        {
+            "Name": "DOUBLE TAPE 3M MERAH",
+            "Merk": "3M",
+            "Unit": "ROLL",
+            "BuyPrice": "50000",
+            "SellPrice": "65000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT KENKO HI-TECH",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "46000",
+            "SellPrice": "63500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SURAT PERMOHONAN ATM TERTELAN",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "16000",
+            "SellPrice": "24500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT GEL PEN MG 0,5",
+            "Merk": "MG",
+            "Unit": "PCS",
+            "BuyPrice": "6460",
+            "SellPrice": "8750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU ADDRESS OHADA 15CMX21CM  BUK",
+            "Unit": "BUK",
+            "BuyPrice": "14000",
+            "SellPrice": "18900",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP KABINET KACA KIRI NO.90 MANDIRI",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "66000",
+            "SellPrice": "82500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM MIGHTY BOND 3 GR",
+            "Unit": "PCS",
+            "BuyPrice": "800",
+            "SellPrice": "1080",
+            "Stock": "0"
+        },
+        {
+            "Name": "SANDARAN BUKU LION NO.7",
+            "Unit": "PCS",
+            "BuyPrice": "9000",
+            "SellPrice": "12150",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STICKER FOX NO.121",
+            "Unit": "PAK",
+            "BuyPrice": "3500",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR B'GEL 0,7",
+            "Merk": "STANDAR",
+            "Unit": "PCS",
+            "BuyPrice": "4900",
+            "SellPrice": "6500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TABUNGAN RENCANA MANDIRI FFO-071",
+            "Unit": "BUKU",
+            "BuyPrice": "16500",
+            "SellPrice": "21945",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK LAMINATING A4 V-TEC",
+            "Merk": "V-TEC",
+            "Unit": "PACK",
+            "BuyPrice": "73100",
+            "SellPrice": "117000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BIC 2 WARNA",
+            "Unit": "PCS",
+            "BuyPrice": "6750",
+            "SellPrice": "9113",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STAPLER BESAR NO.23/10 MAX",
+            "Merk": "MAX",
+            "Unit": "PACK",
+            "BuyPrice": "17500",
+            "SellPrice": "24500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4S 70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "39000",
+            "SellPrice": "45630",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER KOJICO PLASTIK KECIL L-150",
+            "Unit": "PCS",
+            "BuyPrice": "800",
+            "SellPrice": "1080",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK DAITO MANUAL PITA BLK",
+            "Merk": "Daito",
+            "Unit": "PCS",
+            "BuyPrice": "5500",
+            "SellPrice": "7315",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK EDC THERMAL 57X30",
+            "Merk": "OTANI",
+            "Unit": "ROLL",
+            "BuyPrice": "2400",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KALKULATOR CITIZEN CT-400",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MOUSE KABEL M-100 LOGITEC",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "73000",
+            "SellPrice": "99500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP SEKOLAH BPI",
+            "Merk": "BPI",
+            "Unit": "PCS",
+            "BuyPrice": "5500",
+            "SellPrice": "6450",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  QUARTO 80 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "49000",
+            "SellPrice": "57330",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK JILID POLOS FOLIO",
+            "Unit": "PAK",
+            "BuyPrice": "25000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9065 / S-02",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "261800",
+            "SellPrice": "348194",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU TULIS BIG BOSS ISI 42 LBR  BUK",
+            "Unit": "BUK",
+            "BuyPrice": "5000",
+            "SellPrice": "6750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-09",
+            "Merk": "PRINT RITE",
+            "Unit": "PCS",
+            "BuyPrice": "23000",
+            "SellPrice": "34000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PRODUK DANA PERORANGAN",
+            "Unit": "BUKU",
+            "BuyPrice": "15000",
+            "SellPrice": "19950",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL STAEDLER 2B",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "3375",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-39",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "23940",
+            "Stock": "0"
+        },
+        {
+            "Name": "PEMBAYARAN LISTRIK FFO-100",
+            "Unit": "BUKU",
+            "BuyPrice": "8000",
+            "SellPrice": "11500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT GEL PEN CANDY PARIS CC-925",
+            "Merk": "CANDY",
+            "Unit": "LUSIN",
+            "BuyPrice": "15000",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KANTONG KRESEK PLAY BOY KECIL NO.15",
+            "Unit": "PAK",
+            "BuyPrice": "6500",
+            "SellPrice": "15000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER SDI KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT NO. 657",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS KARBON F4 SAILING BOAT",
+            "Merk": "SAILING BOAT",
+            "Unit": "PACK",
+            "BuyPrice": "30000",
+            "SellPrice": "42500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY-5023",
+            "Merk": "PRINT RITE",
+            "Unit": "PCS",
+            "BuyPrice": "63000",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "SIGN HERE JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PACK",
+            "BuyPrice": "7500",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KABEL PRINTER LPT 3M",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "85000",
+            "Stock": "0"
+        },
+        {
+            "Name": "JEPITAN NAME TAG 55X85 JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "5000",
+            "SellPrice": "12500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP KSM MANDIRI",
+            "Unit": "PCS",
+            "BuyPrice": "3300",
+            "SellPrice": "4450",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA REFILL LQ-2180/2190",
+            "Merk": "HP NYLON",
+            "Unit": "PCS",
+            "BuyPrice": "19500",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP PLASTIK SLETING/ZIPPER F4",
+            "Unit": "PCS",
+            "BuyPrice": "5250",
+            "SellPrice": "8750",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN MARKER G-12",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "6500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA COMPUPRINT SP-40",
+            "Merk": "POLOS",
+            "Unit": "PCS",
+            "BuyPrice": "82500",
+            "SellPrice": "190000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN GOLD 2 INC HITAM",
+            "Unit": "ROL",
+            "BuyPrice": "6500",
+            "SellPrice": "8775",
+            "Stock": "0"
+        },
+        {
+            "Name": "BOX FILE MASPION PLASTIK",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "23625",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI CUTTER KENKO BESAR L-150",
+            "Unit": "TUB",
+            "BuyPrice": "3000",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BOX FILE BAMBI PVC FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "24300",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP PLASTIK INTER-X SNELHEKTER",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "KELUHAN NASABAH",
+            "Unit": "BUKU",
+            "BuyPrice": "16000",
+            "SellPrice": "21750",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP KABINET PUTIH NO.90",
+            "Merk": "PAPER LINE",
+            "Unit": "PACK",
+            "BuyPrice": "14500",
+            "SellPrice": "22000",
+            "Stock": "0"
+        },
+        {
+            "Name": "RAK SURAT 2 SUSUN BESI V-TEC",
+            "Merk": "V-TEC",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "127000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL PILOT MEKANIK",
+            "Unit": "PCS",
+            "BuyPrice": "14000",
+            "SellPrice": "22000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CAP TANGGAL D4 JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "9000",
+            "SellPrice": "15000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LAKBAN BENING 2 INCH",
+            "Merk": "LUVE TAPE",
+            "Unit": "ROLL",
+            "BuyPrice": "7650",
+            "SellPrice": "12750",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEBAEL STICKER NO.100 TOM & JERY",
+            "Merk": "TOM & JERY",
+            "Unit": "PACK",
+            "BuyPrice": "7000",
+            "SellPrice": "9740",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT BIC MERAH",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA AMANO EX-6000",
+            "Merk": "ABC",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "79800",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK COMPUPRINT SP-40",
+            "Merk": "ORG",
+            "Unit": "PCS",
+            "BuyPrice": "143000",
+            "SellPrice": "190000",
+            "Stock": "0"
+        },
+        {
+            "Name": "NOTA PAPER LINE KONTAN 2PLY KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "3000",
+            "SellPrice": "4050",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING WONTAPE 1 INCH",
+            "Unit": "ROL",
+            "BuyPrice": "2100",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUNDEL ARSIP STICKER",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "39500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT ST DUPON",
+            "Merk": "DUPON",
+            "Unit": "PCS",
+            "BuyPrice": "225000",
+            "SellPrice": "281250",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-310 / GT-52 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "81000",
+            "SellPrice": "107000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS TELLSTRUK 68X48",
+            "Merk": "SINAR DUNIA",
+            "Unit": "ROL",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS REK. GIRO A",
+            "Unit": "BUKU",
+            "BuyPrice": "30000",
+            "SellPrice": "39900",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / S-01",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "70000",
+            "SellPrice": "93100",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK IBM 6781/SII 1299",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "59850",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL 58X48",
+            "Merk": "OTANI",
+            "Unit": "ROL",
+            "BuyPrice": "5000",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KOP SURAT MANDIRI",
+            "Merk": "repy",
+            "Unit": "RIM",
+            "BuyPrice": "95000",
+            "SellPrice": "119000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER CLIP KENKO NO.1 SEDANG",
+            "Unit": "BOX",
+            "BuyPrice": "15000",
+            "SellPrice": "20250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER PUNCH KENKO NO.30",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "10125",
+            "Stock": "0"
+        },
+        {
+            "Name": "BOX FILE BANTEX PVC FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "24300",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU BASTAR 100",
+            "Merk": "MIRAGE",
+            "Unit": "BUK",
+            "BuyPrice": "10000",
+            "SellPrice": "13500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK CONTAINER 3 LACI",
+            "Merk": "LION STAR",
+            "Unit": "PCS",
+            "BuyPrice": "47500",
+            "SellPrice": "67000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS ROLL HVS NCR 75X60 2PLY",
+            "Merk": "PRATAMA JAYA",
+            "Unit": "ROLL",
+            "BuyPrice": "4500",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4S-70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "39250",
+            "SellPrice": "45950",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER MAX HD-50",
+            "Merk": "MAX",
+            "Unit": "PCS",
+            "BuyPrice": "55000",
+            "SellPrice": "76000",
+            "Stock": "0"
+        },
+        {
+            "Name": "NAME DESK ACRYLICK",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "127500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP BUSINESS FILE A4",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K1 9,5X11 1PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "172500",
+            "SellPrice": "201500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISKETE FUJI 3 1/4 HD  BOX",
+            "Unit": "BOX",
+            "BuyPrice": "55000",
+            "SellPrice": "74250",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI REKSA DANA  FPR-001",
+            "Unit": "BUKU",
+            "BuyPrice": "18500",
+            "SellPrice": "24605",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS REK GABUNGAN  B",
+            "Unit": "BUKU",
+            "BuyPrice": "11800",
+            "SellPrice": "15694",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT TIZO TG-340",
+            "Merk": "TIZO",
+            "Unit": "LUSIN",
+            "BuyPrice": "24000",
+            "SellPrice": "39000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-1170",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "67500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER KENKO HD-50",
+            "Unit": "PCS",
+            "BuyPrice": "15000",
+            "SellPrice": "20250",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAK STEMPEL ARTLINE BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "40000",
+            "SellPrice": "54000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT JOYKO GEL PEN GP-265",
+            "Merk": "JOYKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "25000",
+            "SellPrice": "46500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER SDI NO. 1140",
+            "Unit": "PCS",
+            "BuyPrice": "265000",
+            "SellPrice": "352500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLIP BOARD F4 KAYU",
+            "Merk": "POLOS",
+            "Unit": "PCS",
+            "BuyPrice": "3000",
+            "SellPrice": "7000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP PLASTIK CLEAR SLEEVES EAGLE",
+            "Unit": "PCS",
+            "BuyPrice": "1200",
+            "SellPrice": "2000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LABEL CORRECTION ENCODER MAVERIC",
+            "Merk": "GE",
+            "Unit": "PAK",
+            "BuyPrice": "275000",
+            "SellPrice": "379000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K4:2 9,5X11 4PLY PRS",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "262000",
+            "SellPrice": "306540",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  QUARTO 70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "38000",
+            "SellPrice": "44460",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAMPLE JOYKO TANGGAL D4",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "9000",
+            "SellPrice": "15000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A3 70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "69000",
+            "SellPrice": "85000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM MIGTY BOND KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "800",
+            "SellPrice": "1080",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4-70 GRAM",
+            "Merk": "COPY PAPER",
+            "Unit": "RIM",
+            "BuyPrice": "42000",
+            "SellPrice": "49140",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM KERTAS DIAKOL",
+            "Merk": "DIAKOL",
+            "Unit": "PCS",
+            "BuyPrice": "5250",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT PILOT FRIXION 0,7",
+            "Merk": "PILOT",
+            "Unit": "PCS",
+            "BuyPrice": "19500",
+            "SellPrice": "26000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT ZEBRA PICCOLO 0,7",
+            "Merk": "ZEBRA",
+            "Unit": "LUSIN",
+            "BuyPrice": "12500",
+            "SellPrice": "18500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PANASONIX KXP-170",
+            "Merk": "Panasonic",
+            "Unit": "PCS",
+            "BuyPrice": "78000",
+            "SellPrice": "103740",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON 673 LM",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OLIVETTI PR-2 HG",
+            "Merk": "HOLOGRAM",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BINDEX FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "16750",
+            "SellPrice": "25500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK EPSON PLQ-2O",
+            "Merk": "EPSON",
+            "Unit": "BOX",
+            "BuyPrice": "200000",
+            "SellPrice": "360000",
+            "Stock": "0"
+        },
+        {
+            "Name": "REMOVER STAPLES 9356 BANTEX",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "28500",
+            "SellPrice": "38000",
+            "Stock": "0"
+        },
+        {
+            "Name": "STABILO SWING WARNA-WARNI",
+            "Unit": "PCS",
+            "BuyPrice": "1500",
+            "SellPrice": "2025",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP SDI 6\" NO. 0206",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "8100",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU TULIS 100 SIDU",
+            "Merk": "SIDU",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "0",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT SIGN HERE TYPE 6809",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "18000",
+            "SellPrice": "24000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP KARTON BIOLA",
+            "Merk": "BIOLA",
+            "Unit": "PACK",
+            "BuyPrice": "52000",
+            "SellPrice": "67500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATU BATERAY ABC BESAR R-20S BIRU",
+            "Merk": "ABC",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BANTEX FOLIO TRENDY",
+            "Unit": "PCS",
+            "BuyPrice": "15250",
+            "SellPrice": "20588",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT PENCILTIC ZEBRA",
+            "Merk": "ZEBRA",
+            "Unit": "LUSIN",
+            "BuyPrice": "33500",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.260",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "14500",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT NO. 654",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "8500",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DATA CARTRIDGE SONY 150 P",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "121500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU FOLIO 300 BINTANG OBOR",
+            "Merk": "BINTANG OBOR",
+            "Unit": "PCS",
+            "BuyPrice": "46000",
+            "SellPrice": "65000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ADVIS DEBET",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "11000",
+            "SellPrice": "14250",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP SPRING 6 INC",
+            "Unit": "LSN",
+            "BuyPrice": "55200",
+            "SellPrice": "74520",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OLIEVETTY PR-2",
+            "Merk": "OLIVETTI",
+            "Unit": "PCS",
+            "BuyPrice": "105000",
+            "SellPrice": "139650",
+            "Stock": "0"
+        },
+        {
+            "Name": "REMOVER MAX KCL",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "16875",
+            "Stock": "0"
+        },
+        {
+            "Name": "LABEL STICKER NO.121 FOX",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "0",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISKETE MAXEL SINGLE PACK",
+            "Unit": "PCS",
+            "BuyPrice": "8000",
+            "SellPrice": "10800",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BOXY BIRU",
+            "Unit": "PCS",
+            "BuyPrice": "8000",
+            "SellPrice": "10800",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4-80 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "44500",
+            "SellPrice": "52065",
+            "Stock": "0"
+        },
+        {
+            "Name": "MASKING TAPE BRAND TAPE 1/2 INC",
+            "Unit": "ROL",
+            "BuyPrice": "1750",
+            "SellPrice": "3000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MOUSE WIRELESS M170 LOGITEC",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "135000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU FOLIO 100",
+            "Merk": "KURAMAS",
+            "Unit": "PCS",
+            "BuyPrice": "7000",
+            "SellPrice": "16000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATU BATERAY CIMOS CR-2032 MAXEL",
+            "Merk": "MAXEL",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "6250",
+            "Stock": "0"
+        },
+        {
+            "Name": "REMOVER ATARY KCL",
+            "Unit": "PCS",
+            "BuyPrice": "10000",
+            "SellPrice": "13500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KENKO PERSONAL NOTE BOOK",
+            "Unit": "BUK",
+            "BuyPrice": "1650",
+            "SellPrice": "2228",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA STAMP ARTLINE",
+            "Merk": "ARTLINE",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "25000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA COMPUPRINT PRTN - 3056",
+            "Merk": "ORG",
+            "Unit": "PCS",
+            "BuyPrice": "255000",
+            "SellPrice": "345800",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT KECIL NO.2051",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "4200",
+            "SellPrice": "6750",
+            "Stock": "0"
+        },
+        {
+            "Name": "NAME TAG ACRYLICK",
+            "Unit": "PCS",
+            "BuyPrice": "3000",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX P-7000",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "375000",
+            "SellPrice": "498000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-1170",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "20000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU FOLIO 300 MIRAGE",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "32000",
+            "SellPrice": "43200",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-41 COLOR",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "252500",
+            "SellPrice": "335825",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK IBM 1380999",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "46550",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER KENKO HD-10",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "10000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGGARIS  BUTTERFLY 50 CM",
+            "Unit": "PCS",
+            "BuyPrice": "1700",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PERMOHONAN PIN / PAD",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "110000",
+            "SellPrice": "147500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / S-01",
+            "Merk": "Dotmark",
+            "Unit": "PCS",
+            "BuyPrice": "27000",
+            "SellPrice": "35910",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT GEL STANDAR G SOFT",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "20500",
+            "SellPrice": "29500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TALI RAFIA CAP IKAN 1 KG",
+            "Unit": "ROL",
+            "BuyPrice": "15000",
+            "SellPrice": "20250",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STEAPLER BESAR NO. 3",
+            "Merk": "ETONA",
+            "Unit": "PACK",
+            "BuyPrice": "44000",
+            "SellPrice": "59400",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.111",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "3125",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SURAT JALAN 3PLY",
+            "Unit": "BUKU",
+            "BuyPrice": "9250",
+            "SellPrice": "12303",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK POCKET F4 ISI 20 BANTEX",
+            "Merk": "BANTEX",
+            "Unit": "PACK",
+            "BuyPrice": "0",
+            "SellPrice": "39500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-46 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "121000",
+            "SellPrice": "172000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON 673 BLACK",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT EASY GEL JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "25500",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGHAPUS PENSIL PELIKAN",
+            "Unit": "PCS",
+            "BuyPrice": "1750",
+            "SellPrice": "2363",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KWITANSI SEDANG SINAR LINE",
+            "Merk": "SINAR LINE",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT JARI 20X50MM",
+            "Merk": "T & J",
+            "Unit": "PACK",
+            "BuyPrice": "6000",
+            "SellPrice": "11000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU SINAR DUNIA KWITANSI KECIL 40M",
+            "Unit": "PCS",
+            "BuyPrice": "1000",
+            "SellPrice": "4500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SETORAN PEMB. PERTAMINA",
+            "Unit": "BUKU",
+            "BuyPrice": "24000",
+            "SellPrice": "31920",
+            "Stock": "0"
+        },
+        {
+            "Name": "REMOVER KANGARO SR-50",
+            "Unit": "PCS",
+            "BuyPrice": "10000",
+            "SellPrice": "13500",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING GUNINDO SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER PLASTIK KENKO KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "1250",
+            "SellPrice": "1688",
+            "Stock": "0"
+        },
+        {
+            "Name": "PERMOHONAN PRINT REKENING KORAN",
+            "Merk": "RAPY",
+            "Unit": "RIM",
+            "BuyPrice": "115000",
+            "SellPrice": "157500",
+            "Stock": "0"
+        },
+        {
+            "Name": "FLASH DISK 64 GB SANDISK",
+            "Merk": "SANDISK",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "175000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FABER CASTELL TRIPEN",
+            "Merk": "FABER CASTELL",
+            "Unit": "PCS",
+            "BuyPrice": "1750",
+            "SellPrice": "2250",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING GUNINDO SCISSORS KA-838",
+            "Unit": "PCS",
+            "BuyPrice": "2917",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4-70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "38750",
+            "SellPrice": "46500",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI PEMBUKAAN REKENING / APR",
+            "Unit": "PAK",
+            "BuyPrice": "57000",
+            "SellPrice": "79850",
+            "Stock": "0"
+        },
+        {
+            "Name": "KNOW YOUR CUSTOMER (KYC)",
+            "Unit": "BUKU",
+            "BuyPrice": "10500",
+            "SellPrice": "13965",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON 8766/DFX-8000",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "170000",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT SEDANG NO.656 WARNA",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "8200",
+            "SellPrice": "11500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL CANON G-2000 / GI-790 CYAN",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "146300",
+            "Stock": "0"
+        },
+        {
+            "Name": "KARBON DAITO FOLIO",
+            "Unit": "PAK",
+            "BuyPrice": "33000",
+            "SellPrice": "44550",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER GUNINDHO KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "800",
+            "SellPrice": "1080",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP BUSINEES FILE F4",
+            "Unit": "PCS",
+            "BuyPrice": "2083",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT MAGIG GEL KENKO",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "22500",
+            "SellPrice": "28500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K3 9,5X11 3PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "385000",
+            "SellPrice": "450000",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER. BINDER JOYKO KECIL SC-1301-9",
+            "Unit": "PCS",
+            "BuyPrice": "17000",
+            "SellPrice": "22950",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.107",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "1708",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING FL BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "14500",
+            "SellPrice": "19575",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL 80X200",
+            "Merk": "OTANI",
+            "Unit": "ROL",
+            "BuyPrice": "70000",
+            "SellPrice": "105000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT MILENO POWER JELL",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLEAR HOLDER INTER 40",
+            "Unit": "PCS",
+            "BuyPrice": "18500",
+            "SellPrice": "23500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATU BATERAY CIMOS CR-2032 PANASONIC",
+            "Merk": "PANASONIC",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TISSUE ROLL NICE",
+            "Merk": "NICE",
+            "Unit": "ROLL",
+            "BuyPrice": "2667",
+            "SellPrice": "3350",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR TS HR-100 RC CASIO",
+            "Merk": "CASIO",
+            "Unit": "PCS",
+            "BuyPrice": "450000",
+            "SellPrice": "562500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY-5023",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "70516",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STEAPLER MAX 3-1M",
+            "Unit": "DUS",
+            "BuyPrice": "70000",
+            "SellPrice": "94500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.200",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "7250",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-60 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "197500",
+            "SellPrice": "262675",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER CLIP KENKO JUMBO",
+            "Unit": "BOX",
+            "BuyPrice": "30000",
+            "SellPrice": "40500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR TS FR-2650T CASIO",
+            "Merk": "CASIO",
+            "Unit": "PCS",
+            "BuyPrice": "875000",
+            "SellPrice": "1025000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLEAR HOLDER INTER 20",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SERUTAN JOYKO SDI MINI",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "5400",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  F4-80 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "56000",
+            "SellPrice": "65500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR LOVE IN",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "19500",
+            "SellPrice": "28000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK NAME TAG",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "3500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT MECAN 0,5",
+            "Unit": "PCS",
+            "BuyPrice": "500",
+            "SellPrice": "675",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM B2 14 7/8X11 2PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "409750",
+            "SellPrice": "479500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON 673 LC",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI PENSIL JOYKO 2B",
+            "Unit": "TUB",
+            "BuyPrice": "750",
+            "SellPrice": "1013",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER FILE BANTEX KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "32500",
+            "SellPrice": "43875",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS PAPER ONE A4-70 GRAM",
+            "Merk": "PAPER ONE",
+            "Unit": "RIM",
+            "BuyPrice": "39000",
+            "SellPrice": "45630",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK LEXMARK-2400",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "23000",
+            "SellPrice": "30590",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS REK. GIRO B",
+            "Unit": "BUKU",
+            "BuyPrice": "10000",
+            "SellPrice": "13300",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A-03",
+            "Merk": "PRINT RITE",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "119700",
+            "Stock": "0"
+        },
+        {
+            "Name": "TYPE MESIN TIK IBM 1308999",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "20000",
+            "SellPrice": "26600",
+            "Stock": "0"
+        },
+        {
+            "Name": "LAMPU TL RING 22 WATT PHILLIP",
+            "Merk": "PHILLIP",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "55000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU DOUBLE FOLIO 100",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "33000",
+            "SellPrice": "53000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS ROLL HVS NCR 75X60 3PLY PMK",
+            "Merk": "PRATAMA JAYA",
+            "Unit": "ROLL",
+            "BuyPrice": "5000",
+            "SellPrice": "9850",
+            "Stock": "0"
+        },
+        {
+            "Name": "DVD-RW GT PRO",
+            "Merk": "GT PRO",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "INTERN DEBET",
+            "Unit": "BUKU",
+            "BuyPrice": "4700",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL PENTEL MEKANIK",
+            "Unit": "PCS",
+            "BuyPrice": "5000",
+            "SellPrice": "6750",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER JOYKO A-300",
+            "Unit": "PCS",
+            "BuyPrice": "4250",
+            "SellPrice": "5738",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISKETE SONY 2 HD  BOX",
+            "Unit": "BOX",
+            "BuyPrice": "55000",
+            "SellPrice": "74250",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BIC HIJAU",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "1900",
+            "SellPrice": "3500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPAN TULIS WHITE BOARD 60X120CM GANTUNG",
+            "Merk": "SAKURA",
+            "Unit": "PCS",
+            "BuyPrice": "210000",
+            "SellPrice": "279500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-34",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "25000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP SNELL HEKTER BIOLA",
+            "Merk": "BIOLA",
+            "Unit": "PACK",
+            "BuyPrice": "0",
+            "SellPrice": "97000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A4 70 GRAM",
+            "Merk": "DUNIA MAS",
+            "Unit": "RIM",
+            "BuyPrice": "35000",
+            "SellPrice": "43500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP UANG KECIL BSM",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "32000",
+            "SellPrice": "47500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL 79X80",
+            "Merk": "OTANI",
+            "Unit": "ROL",
+            "BuyPrice": "14500",
+            "SellPrice": "27750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ENCODER MAVERIC  M-5",
+            "Merk": "Maveric",
+            "Unit": "PCS",
+            "BuyPrice": "185000",
+            "SellPrice": "285000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.155",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "5500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.105 WARNA ISI 60",
+            "Merk": "KENKO",
+            "Unit": "PACK",
+            "BuyPrice": "16000",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAN UANG 100 RIBU",
+            "Unit": "PACK",
+            "BuyPrice": "11700",
+            "SellPrice": "14750",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STEAPLER ETONA NO. 10",
+            "Merk": "ETONA",
+            "Unit": "PACK",
+            "BuyPrice": "19000",
+            "SellPrice": "25650",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-664 CYAN",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "75000",
+            "SellPrice": "99750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU DOUBLE FOLIO 100",
+            "Merk": "GELATIK",
+            "Unit": "PCS",
+            "BuyPrice": "27500",
+            "SellPrice": "53000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BANTEX FOLIO 1465 BT",
+            "Unit": "PCS",
+            "BuyPrice": "26250",
+            "SellPrice": "35438",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP SNELHECTER F4 AS",
+            "Merk": "AS",
+            "Unit": "PACK",
+            "BuyPrice": "28000",
+            "SellPrice": "37500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP AXA MANDIRI",
+            "Unit": "PACK",
+            "BuyPrice": "80000",
+            "SellPrice": "106000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU TULIS SIDU ISI 58 LBR  BUK",
+            "Merk": "SIDU",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "3000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM KERTAS CAIR GLUE 50ML KENKO",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "2250",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ACRYLICK BUKA TUTUP",
+            "Unit": "PCS",
+            "BuyPrice": "15000",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP MANDIRI LAMINATING",
+            "Unit": "BUKU",
+            "BuyPrice": "6000",
+            "SellPrice": "7950",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-40 BLACK",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "200000",
+            "SellPrice": "266000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STICKER FOX A4",
+            "Unit": "PAK",
+            "BuyPrice": "13000",
+            "SellPrice": "27000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP UANG KECIL",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "23000",
+            "SellPrice": "32500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP UANG BESAR",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "70000",
+            "SellPrice": "98500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISKETE VERBATIM 2 HD  BOX",
+            "Unit": "BOX",
+            "BuyPrice": "55000",
+            "SellPrice": "74250",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT GEL LINER 1.0",
+            "Merk": "TIZO",
+            "Unit": "LUSIN",
+            "BuyPrice": "35000",
+            "SellPrice": "46000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-704 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "107000",
+            "SellPrice": "132000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER SHENGFA BESAR SF-9868",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "16875",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT BIC HIJAU",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2550",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "79800",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS TELLSTRUK 58X48",
+            "Merk": "SINAR DUNIA",
+            "Unit": "ROL",
+            "BuyPrice": "1725",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT UNI-BALL SIGNO BROAD",
+            "Merk": "UNI BALL",
+            "Unit": "PCS",
+            "BuyPrice": "23000",
+            "SellPrice": "30500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A-01",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "145000",
+            "SellPrice": "192500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FRANCE FLAG AGPA-1702",
+            "Merk": "FRANCE FLAG",
+            "Unit": "LUSIN",
+            "BuyPrice": "54000",
+            "SellPrice": "71000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM UHU STICK 21 GR",
+            "Unit": "PCS",
+            "BuyPrice": "14000",
+            "SellPrice": "18900",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL CANON G-2000 / GI-790 MAGENTA",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "146300",
+            "Stock": "0"
+        },
+        {
+            "Name": "TISSUE KOTAK MULTI H TOWEL",
+            "Merk": "MULTI H TOWEL",
+            "Unit": "PACK",
+            "BuyPrice": "12000",
+            "SellPrice": "15250",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING WONTAPE 1/2 INC",
+            "Unit": "ROL",
+            "BuyPrice": "1100",
+            "SellPrice": "3000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STAPLER KECIL NO.10",
+            "Merk": "SDI",
+            "Unit": "PACK",
+            "BuyPrice": "18000",
+            "SellPrice": "33500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LAMPU 18 WATT GENEI PHILIP",
+            "Merk": "PHILIP",
+            "Unit": "PCS",
+            "BuyPrice": "42500",
+            "SellPrice": "57500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX P5000",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "290000",
+            "SellPrice": "385700",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER FILE BAMBI FOLIO 3400 BT",
+            "Unit": "PCS",
+            "BuyPrice": "39500",
+            "SellPrice": "53325",
+            "Stock": "0"
+        },
+        {
+            "Name": "KEYBOARD WIRELESS LOGITEC+MOUSE MK-220",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "225000",
+            "SellPrice": "272000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU BIGBOSS 42 SHEET",
+            "Unit": "PCS",
+            "BuyPrice": "3750",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. A",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "18000",
+            "SellPrice": "23750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BLOCK NOTE AF NO.10",
+            "Unit": "BUK",
+            "BuyPrice": "500",
+            "SellPrice": "675",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STICKER FOX NO.109",
+            "Unit": "PAK",
+            "BuyPrice": "3500",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DOUBLE FOAM BRAND TAPE 1 INC",
+            "Unit": "ROL",
+            "BuyPrice": "8500",
+            "SellPrice": "13000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS TELLSTRUK 58X48",
+            "Merk": "FOX",
+            "Unit": "ROLL",
+            "BuyPrice": "2400",
+            "SellPrice": "4500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY TG-5040",
+            "Merk": "HOLOGRAM",
+            "Unit": "PCS",
+            "BuyPrice": "85000",
+            "SellPrice": "130000",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT BESAR NO. 654 WARNA",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "9400",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4 70 GRAM",
+            "Merk": "E-PAPER",
+            "Unit": "RIM",
+            "BuyPrice": "40000",
+            "SellPrice": "48750",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K3:2 9,5X11 3PLY PRS",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "396500",
+            "SellPrice": "463500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STOP WATCH Q&Q",
+            "Merk": "Q&Q",
+            "Unit": "PCS",
+            "BuyPrice": "195000",
+            "SellPrice": "260000",
+            "Stock": "0"
+        },
+        {
+            "Name": "RAK MEJA 3 SUSUN",
+            "Unit": "SET",
+            "BuyPrice": "67500",
+            "SellPrice": "91125",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLEANING SONY DGD-15CL",
+            "Unit": "PCS",
+            "BuyPrice": "59000",
+            "SellPrice": "79650",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM UHU CAIR 60ML",
+            "Unit": "PCS",
+            "BuyPrice": "8000",
+            "SellPrice": "10800",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR B-LIVE",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "21750",
+            "SellPrice": "32500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGGARIS KENKO BESI 60 CM",
+            "Unit": "PCS",
+            "BuyPrice": "11500",
+            "SellPrice": "15525",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS REKENING TABUNGAN",
+            "Unit": "BUKU",
+            "BuyPrice": "10500",
+            "SellPrice": "13965",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-11",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "21000",
+            "SellPrice": "27930",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-831 COLOR",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "213000",
+            "SellPrice": "283290",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGHAPUS KENKO CORRECTION TAPE NO.5",
+            "Unit": "PCS",
+            "BuyPrice": "2300",
+            "SellPrice": "3105",
+            "Stock": "0"
+        },
+        {
+            "Name": "KABEL SAMBUNGAN USB 5 METER",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "55000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KABEL PRINTER LPT 5M",
+            "Unit": "PCS",
+            "BuyPrice": "85000",
+            "SellPrice": "125000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER GUNINDHO BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "1833",
+            "SellPrice": "2475",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP CARRY FILE KANCING GESPER F4",
+            "Unit": "PCS",
+            "BuyPrice": "16500",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DUS ARSIP MANDIRI",
+            "Merk": "REPY",
+            "Unit": "PCS",
+            "BuyPrice": "13250",
+            "SellPrice": "18750",
+            "Stock": "0"
+        },
+        {
+            "Name": "LABEL STICKER NO.100 FOX",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "6000",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX P500",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "80000",
+            "SellPrice": "106400",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-001 BLACK",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "105000",
+            "SellPrice": "139500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING GOLDTAPE 1\"X72",
+            "Unit": "ROL",
+            "BuyPrice": "1791",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K2:2 9,5X11 2PLY PRS",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "240000",
+            "SellPrice": "280800",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A03",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "72103",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KANTONG KRESEK PLAY BOY NO.30",
+            "Unit": "PAK",
+            "BuyPrice": "16000",
+            "SellPrice": "32000",
+            "Stock": "0"
+        },
+        {
+            "Name": "REMOVER SDI 1164 KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "5400",
+            "Stock": "0"
+        },
+        {
+            "Name": "PERJANJIAN SEWA MENYEWA DEPOSITE BOX",
+            "Unit": "PACK",
+            "BuyPrice": "20000",
+            "SellPrice": "26500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SNOWMAN V-2",
+            "Merk": "SNOWMAN",
+            "Unit": "LUSIN",
+            "BuyPrice": "12750",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT GEL KENKO",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "0",
+            "SellPrice": "18000",
+            "Stock": "0"
+        },
+        {
+            "Name": "STICKER UANG REMIS",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "450",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER PUNCH KENKO 40XL",
+            "Unit": "PCS",
+            "BuyPrice": "16000",
+            "SellPrice": "21600",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-664 YELLOW",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "75000",
+            "SellPrice": "99750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / S-01",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "27972",
+            "SellPrice": "37203",
+            "Stock": "0"
+        },
+        {
+            "Name": "STOP MAP BIOLA",
+            "Merk": "BIOLA",
+            "Unit": "PACK",
+            "BuyPrice": "0",
+            "SellPrice": "65000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-664 MAGENTA",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "75000",
+            "SellPrice": "99750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KWARTO 100",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "9000",
+            "Stock": "5"
+        },
+        {
+            "Name": "ISI BALLPOINT SNOWMAN V-1",
+            "Merk": "SNOWMAN",
+            "Unit": "LUSIN",
+            "BuyPrice": "7500",
+            "SellPrice": "10125",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A-01",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "70000",
+            "SellPrice": "97500",
+            "Stock": "0"
+        },
+        {
+            "Name": "REFILL BALLPOINT STANDAR B-GEL",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "0",
+            "SellPrice": "117000",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAMPLE JOYKO TANGGAL D3",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONCOR TIPIS A4 90 GR",
+            "Merk": "CONCOR",
+            "Unit": "LEMBAR",
+            "BuyPrice": "125",
+            "SellPrice": "650",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPECTROLINE OPTIMAZE OVERLAY",
+            "Merk": "Spectroline",
+            "Unit": "PCS",
+            "BuyPrice": "50000",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS BURAM RAJAWALI",
+            "Merk": "RAJAWALI",
+            "Unit": "PACK",
+            "BuyPrice": "25500",
+            "SellPrice": "28500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP KABINET POLOS NO.90 MANDIRI",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "47000",
+            "SellPrice": "62000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS SAMSON A0 ISI 25 TEBAL",
+            "Merk": "SAMSON",
+            "Unit": "ROLL",
+            "BuyPrice": "46000",
+            "SellPrice": "61000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KALKULATOR KARCE D20",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "30375",
+            "Stock": "0"
+        },
+        {
+            "Name": "MOUSE WIRELESS M185 LOGITEC",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "145000",
+            "SellPrice": "197500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR TELLSTRUK DR-120R CASIO",
+            "Merk": "CASIO",
+            "Unit": "PCS",
+            "BuyPrice": "980000",
+            "SellPrice": "1300000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL KENKO MEKANIK MP-01",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "6075",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA TALLY 691",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "146191",
+            "SellPrice": "295000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATERAY ABC ALKALINE A3",
+            "Merk": "ABC",
+            "Unit": "PCS",
+            "BuyPrice": "3750",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN NACHI 2 INC BENING",
+            "Merk": "NACHI",
+            "Unit": "ROL",
+            "BuyPrice": "8250",
+            "SellPrice": "12750",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K1:2 9,5X11 1PLY PRS",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "151500",
+            "SellPrice": "177255",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  F4-70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "42000",
+            "SellPrice": "49140",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU  FOLIO 100 MIRAGE",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "17500",
+            "Stock": "5"
+        },
+        {
+            "Name": "NAME DESK SLOT BEDA SISI STAINLES",
+            "Merk": "SPECTRUM",
+            "Unit": "PCS",
+            "BuyPrice": "275000",
+            "SellPrice": "343000",
+            "Stock": "0"
+        },
+        {
+            "Name": "DATA CARTRIDGE SONY 120-P",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "87750",
+            "Stock": "0"
+        },
+        {
+            "Name": "CD VERBATIM READ",
+            "Unit": "PCS",
+            "BuyPrice": "1750",
+            "SellPrice": "2363",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2180/2190 BUSA",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "70000",
+            "SellPrice": "90000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON FILL INK",
+            "Merk": "FILL INK",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "49500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPAN TULIS WHITE BOARD 90X180CM GANTUNG",
+            "Merk": "SAKURA",
+            "Unit": "PCS",
+            "BuyPrice": "430000",
+            "SellPrice": "571000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER BAG LAMINATING BIRU 10X28X30CM",
+            "Merk": "REPY",
+            "Unit": "PCS",
+            "BuyPrice": "6250",
+            "SellPrice": "8325",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU SINAR DUNIA KWITANSI SEDANG 40T",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT MILENO FASTEST",
+            "Unit": "PCS",
+            "BuyPrice": "1100",
+            "SellPrice": "1485",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS PAPER ONE F4-70 GRAM",
+            "Merk": "PAPER ONE",
+            "Unit": "RIM",
+            "BuyPrice": "42000",
+            "SellPrice": "49140",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT PARKER HITAM",
+            "Unit": "PCS",
+            "BuyPrice": "12000",
+            "SellPrice": "16200",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAK STEMPEL ARTLINE KECIL NO.0",
+            "Unit": "PCS",
+            "BuyPrice": "19250",
+            "SellPrice": "25988",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING JOYKO SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. XL",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "65000",
+            "SellPrice": "86000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT PILOT BALL LINER",
+            "Unit": "PCS",
+            "BuyPrice": "9500",
+            "SellPrice": "12825",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX P300",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "94000",
+            "SellPrice": "125020",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2180+BOX",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "60500",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING 1 INCH",
+            "Merk": "LUVE TAPE",
+            "Unit": "ROLL",
+            "BuyPrice": "3500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT BIC BIRU",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT SNOWMAN V-1",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "625",
+            "SellPrice": "844",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAK STEMPEL ARTLINE NO.1",
+            "Unit": "PCS",
+            "BuyPrice": "27500",
+            "SellPrice": "38500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR SDC-554S 14DG CITIZEN",
+            "Merk": "CITIZEN",
+            "Unit": "PCS",
+            "BuyPrice": "96000",
+            "SellPrice": "127500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2170/2180",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN BOARD MARKER",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "5125",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS TABUNGAN TABUNGAN BISNIS",
+            "Unit": "BUKU",
+            "BuyPrice": "11500",
+            "SellPrice": "15295",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT PENTEL HITAM",
+            "Unit": "PCS",
+            "BuyPrice": "9500",
+            "SellPrice": "12825",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA SEIKOSHA 5780/SBP-1051",
+            "Merk": "POLOS",
+            "Unit": "PCS",
+            "BuyPrice": "159000",
+            "SellPrice": "195000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / A-03",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "130000",
+            "SellPrice": "185000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK UANG BESAR/SEDANG",
+            "Unit": "KG",
+            "BuyPrice": "32000",
+            "SellPrice": "43200",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR SDC-640",
+            "Unit": "PCS",
+            "BuyPrice": "127500",
+            "SellPrice": "169500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISPENSER KENKO NO.50",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "30000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL 80X140",
+            "Merk": "OTANI",
+            "Unit": "ROL",
+            "BuyPrice": "47500",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM INAKOL SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "550",
+            "SellPrice": "743",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX P-8000 P/N 255049-103",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "700000",
+            "SellPrice": "885000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PEMBUKAAN DEPOSITO FFO-003 4PLY",
+            "Unit": "BUKU",
+            "BuyPrice": "16000",
+            "SellPrice": "21500",
+            "Stock": "0"
+        },
+        {
+            "Name": "OPTIMAZE OVERLAY DOTMARK",
+            "Merk": "GRAFITY",
+            "Unit": "PCS",
+            "BuyPrice": "16000",
+            "SellPrice": "55000",
+            "Stock": "0"
+        },
+        {
+            "Name": "DOUBLE TAPE 1 INC KENKO",
+            "Merk": "KENKO",
+            "Unit": "ROLL",
+            "BuyPrice": "5000",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATERAY ABC ALKALINE AA",
+            "Merk": "ABC",
+            "Unit": "PCS",
+            "BuyPrice": "3875",
+            "SellPrice": "5750",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BAMBI FOLIO SMALL 5 CM",
+            "Unit": "PCS",
+            "BuyPrice": "26000",
+            "SellPrice": "33000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STICKER TOM & JERRY NO.121",
+            "Unit": "PAK",
+            "BuyPrice": "3500",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIPE EX  PEN KN-301 KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "2375",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K2 9,5X11 2PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "236000",
+            "SellPrice": "276120",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA REFILL LQ-2170",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "26000",
+            "SellPrice": "39950",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATU BATERAY ABC SEDANG R-14 BIRU",
+            "Merk": "ABC",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "6500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU SINAR DUNIA KWITANSI BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAN UANG 50 RIBU",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "11000",
+            "SellPrice": "14750",
+            "Stock": "0"
+        },
+        {
+            "Name": "STABILO BOSS 70/54",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KAPUR TULIS WARNA",
+            "Unit": "PACK",
+            "BuyPrice": "5000",
+            "SellPrice": "7250",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM ALTECO NO. 110  3G",
+            "Unit": "PCS",
+            "BuyPrice": "3750",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISPENSER TAPE BESAR TD-323",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "21000",
+            "SellPrice": "27950",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 4722",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "86450",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SIKOR UNGU",
+            "Unit": "PCS",
+            "BuyPrice": "3500",
+            "SellPrice": "4725",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K5 9,5X11 5PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "334000",
+            "SellPrice": "390780",
+            "Stock": "0"
+        },
+        {
+            "Name": "MASKING TAPE BRAND TAPE 1 INC",
+            "Unit": "ROL",
+            "BuyPrice": "2350",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OLIEVETTY PR-50",
+            "Merk": "OLIVETTI",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "126350",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS SAMSON A0 ISI 25 LEMBAR TIPIS",
+            "Merk": "SAMSON",
+            "Unit": "ROLL",
+            "BuyPrice": "25000",
+            "SellPrice": "33250",
+            "Stock": "0"
+        },
+        {
+            "Name": "DOUBLE TAPE 3M PUTIH",
+            "Merk": "3M",
+            "Unit": "ROLL",
+            "BuyPrice": "24000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKTI SETORAN TUNAI 2PLY",
+            "Unit": "BUKU",
+            "BuyPrice": "5700",
+            "SellPrice": "7750",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS PHOTO GLOSSY DATA PRINT A4",
+            "Unit": "PAK",
+            "BuyPrice": "20000",
+            "SellPrice": "27000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPAN TULIS WHITE BOARD 40X60CM GANTUNG",
+            "Merk": "SAKURA",
+            "Unit": "PCS",
+            "BuyPrice": "72000",
+            "SellPrice": "99000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BLOCK NOTE HIDAYAT JAYA NO.10",
+            "Unit": "BUK",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM KERTAS DIAKOL 500ML",
+            "Merk": "DIAKOL",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "18000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT KENKO K1 HITAM",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "4500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI CUTTER KENKO KECIL A-100",
+            "Unit": "TUB",
+            "BuyPrice": "2500",
+            "SellPrice": "3375",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPON UANG TRODAT SC-6",
+            "Merk": "TRODAT",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU FOLIO 500 BINTANG OBOR",
+            "Merk": "BINTANG OBOR",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "118125",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-802 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "106000",
+            "SellPrice": "141000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATERAY ABC AA",
+            "Unit": "PCS",
+            "BuyPrice": "1450",
+            "SellPrice": "1958",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER BAG LAMINATING BIRU 10X38X30CM",
+            "Merk": "REPY",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "9975",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 4722 POLOS",
+            "Merk": "Polos",
+            "Unit": "PCS",
+            "BuyPrice": "33566",
+            "SellPrice": "44643",
+            "Stock": "0"
+        },
+        {
+            "Name": "KARTU NAMA BERLIAN PUTIH",
+            "Unit": "PAK",
+            "BuyPrice": "10000",
+            "SellPrice": "13500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM UHU STICK 8 GRM",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "10125",
+            "Stock": "0"
+        },
+        {
+            "Name": "CONTOH TANDA TANGAN",
+            "Unit": "BUKU",
+            "BuyPrice": "10500",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ADAPTOR 1A PS-1000P MONTANA",
+            "Merk": "MONTANA",
+            "Unit": "PCS",
+            "BuyPrice": "55000",
+            "SellPrice": "73500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LAMPU LED 12 WATT PHILIP",
+            "Merk": "PHILIP",
+            "Unit": "PCS",
+            "BuyPrice": "34750",
+            "SellPrice": "65000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU AGENDA POLOS A-5  BUK",
+            "Unit": "BUK",
+            "BuyPrice": "19475",
+            "SellPrice": "26291",
+            "Stock": "0"
+        },
+        {
+            "Name": "FLASH DISK 8 GB",
+            "Merk": "SANDISK",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY-151",
+            "Merk": "Tally",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "79800",
+            "Stock": "0"
+        },
+        {
+            "Name": "SERUTAN SDI BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "40000",
+            "SellPrice": "54000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN GOLD TAPE COKLAT",
+            "Unit": "ROL",
+            "BuyPrice": "7750",
+            "SellPrice": "10463",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4 70 GRAM",
+            "Merk": "DUNIA MAS",
+            "Unit": "RIM",
+            "BuyPrice": "40000",
+            "SellPrice": "48500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENARIKAN FFO-011",
+            "Unit": "BUKU",
+            "BuyPrice": "6250",
+            "SellPrice": "8750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK LEXMARK-2400",
+            "Merk": "Lexmark",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "86450",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAMPLE TANGGAL DAN NAMA TELLER",
+            "Merk": "MANUAL",
+            "Unit": "PCS",
+            "BuyPrice": "90000",
+            "SellPrice": "122500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PEMBAYARAN KARTU KREDIT FFO-047",
+            "Unit": "BUKU",
+            "BuyPrice": "8300",
+            "SellPrice": "12000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER CLIP KENKO NO.3",
+            "Unit": "BOX",
+            "BuyPrice": "10500",
+            "SellPrice": "16500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-310",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "57500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLEAR HOLDER INTER 60",
+            "Unit": "PCS",
+            "BuyPrice": "23750",
+            "SellPrice": "32063",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT 17,5X27,5CM NO.307 KIKY (10PCS)",
+            "Merk": "KIKY",
+            "Unit": "PACK",
+            "BuyPrice": "9500",
+            "SellPrice": "12750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN DAIMARU 2\" HIJAU",
+            "Unit": "ROL",
+            "BuyPrice": "14500",
+            "SellPrice": "19575",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ENCODER MAVERIC MICR II",
+            "Merk": "Maveric",
+            "Unit": "PCS",
+            "BuyPrice": "75000",
+            "SellPrice": "115000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OLIEVETTY PR-2",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "41000",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA STAMPEL MANIS",
+            "Merk": "MANIS",
+            "Unit": "PCS",
+            "BuyPrice": "9500",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FABER CASTELL GRIP X P-5",
+            "Merk": "FABER CASTEL",
+            "Unit": "LUSIN",
+            "BuyPrice": "53000",
+            "SellPrice": "70000",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISPENSER LION NO.50",
+            "Merk": "LION",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "32000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA TALLY-691",
+            "Merk": "Tally",
+            "Unit": "PCS",
+            "BuyPrice": "235365",
+            "SellPrice": "442000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KETENTUAN DAN SYARAT KHUSUS REKENING MANDIRI",
+            "Merk": "REPY",
+            "Unit": "BUKU",
+            "BuyPrice": "18000",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA COMPUPRINT PRK-3056",
+            "Merk": "COMPATIBLE",
+            "Unit": "PCS",
+            "BuyPrice": "80000",
+            "SellPrice": "180000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BIC 4 WARNA",
+            "Unit": "PCS",
+            "BuyPrice": "8750",
+            "SellPrice": "11813",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING NACHI 1/2X72",
+            "Unit": "ROL",
+            "BuyPrice": "2208",
+            "SellPrice": "3500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DISPENSER KENJOY NO.25",
+            "Unit": "PCS",
+            "BuyPrice": "10000",
+            "SellPrice": "15000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KAMPUS UNIVERSITY KIKY",
+            "Merk": "KIKY",
+            "Unit": "PCS",
+            "BuyPrice": "6300",
+            "SellPrice": "9500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIVOLI BOX EXEL 220 3 LACI",
+            "Merk": "MASPION",
+            "Unit": "PCS",
+            "BuyPrice": "63600",
+            "SellPrice": "89500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK ATM THERMAL 80X85",
+            "Merk": "OTANI",
+            "Unit": "ROL",
+            "BuyPrice": "27000",
+            "SellPrice": "40500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TEMPAT SAMPAH STAINLESS PEDAL BIN ROUND 12 LITER",
+            "Merk": "KRISBOW",
+            "Unit": "PCS",
+            "BuyPrice": "219900",
+            "SellPrice": "297500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA STAMP YAMURA",
+            "Merk": "YAMURA",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "11500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGHAPUS STEADLER PENCIL",
+            "Unit": "PCS",
+            "BuyPrice": "1750",
+            "SellPrice": "2363",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING PANFIK 1/2 INC",
+            "Merk": "PANFIK",
+            "Unit": "ROLL",
+            "BuyPrice": "12250",
+            "SellPrice": "16250",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A4 70 GRAM",
+            "Merk": "ZAP",
+            "Unit": "RIM",
+            "BuyPrice": "36500",
+            "SellPrice": "43500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT MEJA DELIE-6791",
+            "Merk": "DELI",
+            "Unit": "PCS",
+            "BuyPrice": "7505",
+            "SellPrice": "10750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BOXY HITAM/MERAH",
+            "Unit": "PCS",
+            "BuyPrice": "8000",
+            "SellPrice": "10800",
+            "Stock": "0"
+        },
+        {
+            "Name": "HAND TALLY JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "18500",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BAN UANG 1 RIBU S/D 100 RIBU",
+            "Unit": "PACK",
+            "BuyPrice": "11700",
+            "SellPrice": "14750",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN KECIL CAMPUR",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER CLIP BOX MAGNET TRIFELO",
+            "Merk": "TRIFELO",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "25000",
+            "Stock": "0"
+        },
+        {
+            "Name": "JEPITA NAME TAG PC-320 EXLUSIVE",
+            "Unit": "PCS",
+            "BuyPrice": "2750",
+            "SellPrice": "4250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN KENKO HITAM 1\"",
+            "Unit": "ROL",
+            "BuyPrice": "6500",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING NACHI 1\"X72",
+            "Unit": "ROL",
+            "BuyPrice": "4417",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ADVIS KREDIT",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "11000",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM POVINAL 500 GR",
+            "Unit": "PCS",
+            "BuyPrice": "13000",
+            "SellPrice": "22000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY 5025",
+            "Merk": "Hologram",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "46550",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN KECIL  MERAH",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1250",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER BINDER BAMBI 22 LUBANG",
+            "Unit": "PCS",
+            "BuyPrice": "45000",
+            "SellPrice": "60750",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. E",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "60000",
+            "SellPrice": "81000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN GOLD TAPE 2\" BENING",
+            "Unit": "ROL",
+            "BuyPrice": "7750",
+            "SellPrice": "10463",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER BINDER BAMBI KECIL SC-1301-9",
+            "Unit": "PCS",
+            "BuyPrice": "23000",
+            "SellPrice": "31050",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS LOES LEAF A5 ISI 50",
+            "Merk": "KENKO",
+            "Unit": "PACK",
+            "BuyPrice": "2750",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4-80 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "50000",
+            "SellPrice": "58500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGALIHAN (SWITCHING) FFO-064C",
+            "Unit": "BUKU",
+            "BuyPrice": "5500",
+            "SellPrice": "9500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER KENKO L-500",
+            "Unit": "PCS",
+            "BuyPrice": "10550",
+            "SellPrice": "14243",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BENEX KWINTANSI",
+            "Unit": "PCS",
+            "BuyPrice": "13068",
+            "SellPrice": "23500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS LOISE LIFE A4  RIM",
+            "Unit": "RIM",
+            "BuyPrice": "7500",
+            "SellPrice": "10125",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM UHU CAIR 8 ML",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KAS F4 80 SHEET",
+            "Merk": "KIKY",
+            "Unit": "PCS",
+            "BuyPrice": "12000",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGGARIS  BUTTERFLY 30 CM",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "2500",
+            "Stock": "0"
+        },
+        {
+            "Name": "HURUF POLOS PUTIH 1/2 INCHI",
+            "Unit": "PCS",
+            "BuyPrice": "550",
+            "SellPrice": "743",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-830 BLACK",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "165000",
+            "SellPrice": "219450",
+            "Stock": "0"
+        },
+        {
+            "Name": "NOTA KONTAN NCR 2PLY VISION",
+            "Merk": "VISION",
+            "Unit": "BUKU",
+            "BuyPrice": "5000",
+            "SellPrice": "8750",
+            "Stock": "0"
+        },
+        {
+            "Name": "KANTONG KRESEK PLAY BOY NO.40",
+            "Unit": "PAK",
+            "BuyPrice": "22000",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ATM DP-600",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "23275",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-810 BLACK",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "197500",
+            "SellPrice": "252700",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT KOTAK JOYKO MMS-1",
+            "Merk": "JOYKO",
+            "Unit": "PACK",
+            "BuyPrice": "15000",
+            "SellPrice": "25000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU TULIS SIDU ISI 36LBR  BUK",
+            "Merk": "SIDU",
+            "Unit": "PCS",
+            "BuyPrice": "1400",
+            "SellPrice": "2500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DVD-R GT PRO",
+            "Merk": "GT PRO",
+            "Unit": "PCS",
+            "BuyPrice": "2700",
+            "SellPrice": "4500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR P-5 CETREK",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "21750",
+            "SellPrice": "32500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE CANON PG-811 COLOR",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "245000",
+            "SellPrice": "312550",
+            "Stock": "0"
+        },
+        {
+            "Name": "BLOCK NOTE HIDAYAT JAYA NO.15",
+            "Unit": "BUK",
+            "BuyPrice": "3000",
+            "SellPrice": "4050",
+            "Stock": "0"
+        },
+        {
+            "Name": "KOTAK P3K WALL CABINET MC-11",
+            "Merk": "MASPION",
+            "Unit": "PCS",
+            "BuyPrice": "110000",
+            "SellPrice": "177500",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER FILE BANTEX BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "43500",
+            "SellPrice": "58500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ENCODER MAVERIC FUJI FZ-1027",
+            "Merk": "Fuji",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "159500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-38",
+            "Merk": "PRINT RITE",
+            "Unit": "PCS",
+            "BuyPrice": "22000",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY-5025",
+            "Merk": "Tally",
+            "Unit": "PCS",
+            "BuyPrice": "72800",
+            "SellPrice": "96824",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS LOES LEAF A5 ISI 100",
+            "Merk": "KENKO",
+            "Unit": "PACK",
+            "BuyPrice": "5250",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BINDEX 5 CM SMALL",
+            "Unit": "PCS",
+            "BuyPrice": "16750",
+            "SellPrice": "25500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KALKULATOR KARCE KC-207",
+            "Unit": "PCS",
+            "BuyPrice": "21500",
+            "SellPrice": "29025",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING KENKO KECIL KS-818",
+            "Unit": "PCS",
+            "BuyPrice": "3600",
+            "SellPrice": "6500",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP GIRO MANDIRI",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "3325",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU FOLIO 200 MIRAGE",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "23500",
+            "SellPrice": "31725",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPON UANG POLOS CAIR",
+            "Unit": "PCS",
+            "BuyPrice": "5000",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KARBON SAILING BOAT HITAM",
+            "Unit": "PAK",
+            "BuyPrice": "24000",
+            "SellPrice": "32400",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BINDEX KWINTANSI",
+            "Unit": "PCS",
+            "BuyPrice": "16750",
+            "SellPrice": "25250",
+            "Stock": "0"
+        },
+        {
+            "Name": "DOUBLE TAPE 1/2 INC KENKO",
+            "Merk": "KENKO",
+            "Unit": "ROLL",
+            "BuyPrice": "2500",
+            "SellPrice": "4500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN KECIL BIRU",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1250",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP PLASTIK SLETING/ZIPER A-5",
+            "Unit": "PCS",
+            "BuyPrice": "4000",
+            "SellPrice": "6750",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM PUTIH 150GR FOX",
+            "Merk": "FOX",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT BATIK CULTURE BP-184",
+            "Merk": "JOYKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "28000",
+            "SellPrice": "37000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OLIEVETTY PR-2",
+            "Merk": "Hologram",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-1170",
+            "Merk": "HP NYLON",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "JEPITAN NAME TAG PC-321 BUAYA",
+            "Unit": "PCS",
+            "BuyPrice": "2250",
+            "SellPrice": "3850",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STAPLER BESAR NO.23/13 MAX",
+            "Merk": "MAX",
+            "Unit": "PACK",
+            "BuyPrice": "18500",
+            "SellPrice": "24500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BAMBI FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "26000",
+            "SellPrice": "33000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER BENEX FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "13068",
+            "SellPrice": "23500",
+            "Stock": "0"
+        },
+        {
+            "Name": "NOTA KONTAN POLOS NO.6  BUK",
+            "Unit": "BUK",
+            "BuyPrice": "1500",
+            "SellPrice": "2025",
+            "Stock": "0"
+        },
+        {
+            "Name": "FORMULIR PEMBELIAN FFO-063",
+            "Unit": "BUKU",
+            "BuyPrice": "5500",
+            "SellPrice": "10500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STEMPEL ANGKA 12 DIGIT TRODAT",
+            "Merk": "TRODAT",
+            "Unit": "PCS",
+            "BuyPrice": "80750",
+            "SellPrice": "125000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT TRIFELO SPIRAL BP-316",
+            "Merk": "TRIFELO",
+            "Unit": "PCS",
+            "BuyPrice": "3126",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BOX FILE BINDEX PVC FOLIO",
+            "Unit": "PCS",
+            "BuyPrice": "18000",
+            "SellPrice": "24300",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS BUFFALOW FOLIO",
+            "Merk": "BUFALOW",
+            "Unit": "PACK",
+            "BuyPrice": "29500",
+            "SellPrice": "37905",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGGARIS KENKO BESI 30 CM",
+            "Unit": "PCS",
+            "BuyPrice": "3750",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-23",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "23275",
+            "Stock": "0"
+        },
+        {
+            "Name": "KABEL PRINTER USB 5M",
+            "Unit": "PCS",
+            "BuyPrice": "50000",
+            "SellPrice": "65000",
+            "Stock": "0"
+        },
+        {
+            "Name": "GUNTING GUNINDO KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "3600",
+            "SellPrice": "4860",
+            "Stock": "0"
+        },
+        {
+            "Name": "ROLL INK IR-40 T PRINT RITE",
+            "Merk": "PRINT RATE",
+            "Unit": "PCS",
+            "BuyPrice": "15000",
+            "SellPrice": "21000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIPE EX ROLL CT-634 KENKO",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERANJANG /NAMPAN MESH CLARIS 0502",
+            "Merk": "CLARIS",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI PEMBUKAAN GIRO RUPIAH 7HAL 2PLY",
+            "Merk": "REPY",
+            "Unit": "BUKU",
+            "BuyPrice": "0",
+            "SellPrice": "79500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR ST-009",
+            "Merk": "STANDAR",
+            "Unit": "LUSIN",
+            "BuyPrice": "16700",
+            "SellPrice": "27000",
+            "Stock": "0"
+        },
+        {
+            "Name": "REFILL NAME DESK ACRYLIC & CUTTING 613",
+            "Merk": "SPECTRUM",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "79500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL AIHAO MEKANIK",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER KENKO KECIL A-300",
+            "Unit": "PCS",
+            "BuyPrice": "4250",
+            "SellPrice": "6250",
+            "Stock": "0"
+        },
+        {
+            "Name": "FLASH DISK  32 GB",
+            "Merk": "SANDISK",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "115000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER PUNCH KENKO NO.85",
+            "Unit": "PCS",
+            "BuyPrice": "32500",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU GLATIK ABJAD ISI 100",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS PAPER ONE A4-80 GRAM",
+            "Merk": "PAPER ONE",
+            "Unit": "RIM",
+            "BuyPrice": "45000",
+            "SellPrice": "52750",
+            "Stock": "0"
+        },
+        {
+            "Name": "MOUSE WIRE LESS",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "135000",
+            "SellPrice": "165000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ACRILYC STANDED SIGN HOLDER A4 TIPE 8852",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "79310",
+            "SellPrice": "105500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT NAKOYA HITAM",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "2700",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING GOLDTAPE 1/2\"X72",
+            "Unit": "ROL",
+            "BuyPrice": "1250",
+            "SellPrice": "3000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-680 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP PLASTIK INTER-X JEPIT",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI STEAPLER MAX NO.10",
+            "Unit": "DUS",
+            "BuyPrice": "35000",
+            "SellPrice": "47250",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP UANG SEDANG",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "43000",
+            "SellPrice": "53500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BLOCK NOTE AF NO.15",
+            "Unit": "BUK",
+            "BuyPrice": "1000",
+            "SellPrice": "1350",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT NO. 656",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "7250",
+            "SellPrice": "10500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4 100 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "55000",
+            "SellPrice": "72000",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT NO. 653",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "3750",
+            "SellPrice": "6500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPECTROLINE SIGNATURE",
+            "Merk": "Spectroline",
+            "Unit": "PCS",
+            "BuyPrice": "55000",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONCOR TEBAL A4 210GR",
+            "Merk": "CONCOR",
+            "Unit": "LEMBAR",
+            "BuyPrice": "125",
+            "SellPrice": "950",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT NO.653 WARNA/I",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "5250",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUNDEL ARSIP SAMSON",
+            "Unit": "PCS",
+            "BuyPrice": "25000",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM B3 14 7/8X11 3PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "555000",
+            "SellPrice": "649350",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS FAX OJI 210X30",
+            "Merk": "OJI",
+            "Unit": "ROLL",
+            "BuyPrice": "13500",
+            "SellPrice": "19750",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR SDC-868L CITIZEN",
+            "Merk": "CITIZEN",
+            "Unit": "PCS",
+            "BuyPrice": "107500",
+            "SellPrice": "119500",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLEAR HOLDER BINDEX A4 / 8210",
+            "Unit": "PAK",
+            "BuyPrice": "5000",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STRUK EDC THERMAL 58X40",
+            "Merk": "OTANI",
+            "Unit": "ROLL",
+            "BuyPrice": "2800",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX SP-300",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "23275",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2180/2190",
+            "Merk": "HP NYLON",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER FASTENER SRM 8 CM",
+            "Unit": "PAK",
+            "BuyPrice": "6500",
+            "SellPrice": "10000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA REFILL LQ-300",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "8645",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM KENKO 8 GRAM",
+            "Unit": "PCS",
+            "BuyPrice": "2000",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY-5023",
+            "Merk": "Tally",
+            "Unit": "PCS",
+            "BuyPrice": "130000",
+            "SellPrice": "172900",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-802 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "106000",
+            "SellPrice": "141000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP KECIL NO.104",
+            "Merk": "PAPER LINE",
+            "Unit": "PACK",
+            "BuyPrice": "11500",
+            "SellPrice": "18500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-680 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A5 70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "36000",
+            "SellPrice": "43500",
+            "Stock": "0"
+        },
+        {
+            "Name": "NOTA KONTAN POLOS NO.5  BUK",
+            "Unit": "BUK",
+            "BuyPrice": "1000",
+            "SellPrice": "1350",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP CARRY FILE FOLIO",
+            "Merk": "EAGLE",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "27000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP BATIK F4 ISI 20",
+            "Merk": "BIOLA",
+            "Unit": "PACK",
+            "BuyPrice": "40000",
+            "SellPrice": "57500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK COMPUPRINT SP-40 PLUS PRK-6240",
+            "Merk": "ORG",
+            "Unit": "PCS",
+            "BuyPrice": "176000",
+            "SellPrice": "285000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K4 9,5X11 4PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "252000",
+            "SellPrice": "294840",
+            "Stock": "0"
+        },
+        {
+            "Name": "INTERN KREDIT",
+            "Unit": "BUKU",
+            "BuyPrice": "5500",
+            "SellPrice": "9500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAMPLE KENKO CAP TANGGAL LUNAS",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "14500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS KARTON NO. 30COKLAT A0",
+            "Unit": "PCS",
+            "BuyPrice": "3500",
+            "SellPrice": "4725",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM POVINAL 115 TG",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI DAICHI DUBLE TAPE 1/2\"",
+            "Unit": "ROL",
+            "BuyPrice": "1750",
+            "SellPrice": "3500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT TALI DEBOZZ",
+            "Merk": "DEBOZZ",
+            "Unit": "PCS",
+            "BuyPrice": "2200",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS TELLSTRUK 75X65",
+            "Merk": "SINAR DUNIA",
+            "Unit": "ROL",
+            "BuyPrice": "5000",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER KECIL HD-10 V-TEC",
+            "Merk": "V-TEC",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "10000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  F4-60 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "38500",
+            "SellPrice": "45045",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK WINCOR-4915",
+            "Merk": "Wincor",
+            "Unit": "PCS",
+            "BuyPrice": "155000",
+            "SellPrice": "206150",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN NACHI 2 INC COKLAT",
+            "Merk": "NACHI",
+            "Unit": "ROL",
+            "BuyPrice": "8250",
+            "SellPrice": "12750",
+            "Stock": "0"
+        },
+        {
+            "Name": "ACRILYC STAND UP SIGN HOLDER A4 TIPE 8854",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "60830",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR AE-7",
+            "Unit": "LSN",
+            "BuyPrice": "13000",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI KSM MANDIRI LIPAT ISI 50",
+            "Merk": "REPI",
+            "Unit": "PACK",
+            "BuyPrice": "65000",
+            "SellPrice": "86500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK OKI 790/791 BLACK",
+            "Merk": "Oki",
+            "Unit": "PCS",
+            "BuyPrice": "83625",
+            "SellPrice": "111221",
+            "Stock": "0"
+        },
+        {
+            "Name": "PERPANJANGAN DEPOSITO",
+            "Unit": "BUKU",
+            "BuyPrice": "5200",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS STICKER TOM & JERRY 103",
+            "Unit": "PAK",
+            "BuyPrice": "3750",
+            "SellPrice": "6000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SOFLINE ARTLINE",
+            "Merk": "ARTLINE",
+            "Unit": "LUSIN",
+            "BuyPrice": "45000",
+            "SellPrice": "61500",
+            "Stock": "0"
+        },
+        {
+            "Name": "FAKTUR PAPERLINE NCR 3 PLY",
+            "Unit": "BUK",
+            "BuyPrice": "3100",
+            "SellPrice": "4185",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS JILID BUFFALOW FOLIO",
+            "Unit": "PAK",
+            "BuyPrice": "28500",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-46 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "121000",
+            "SellPrice": "172000",
+            "Stock": "0"
+        },
+        {
+            "Name": "THERMOMETER INFRARED FS-700 HUBDIC",
+            "Merk": "HUBDIC",
+            "Unit": "PCS",
+            "BuyPrice": "525000",
+            "SellPrice": "698000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A4 70 GRAM",
+            "Merk": "E-PAPER",
+            "Unit": "RIM",
+            "BuyPrice": "35000",
+            "SellPrice": "43500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT PARKER QUINK FLOW",
+            "Merk": "PARKER",
+            "Unit": "PCS",
+            "BuyPrice": "25000",
+            "SellPrice": "37500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN KECIL HITAM",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1250",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER SDI NO. 1142 BESAR",
+            "Merk": "SDI",
+            "Unit": "PCS",
+            "BuyPrice": "553000",
+            "SellPrice": "735000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA STAMP TRODAT",
+            "Merk": "TRODAT",
+            "Unit": "PCS",
+            "BuyPrice": "38500",
+            "SellPrice": "51250",
+            "Stock": "0"
+        },
+        {
+            "Name": "KACA PEMBESAR POLOS LIPAT",
+            "Unit": "PCS",
+            "BuyPrice": "4250",
+            "SellPrice": "5738",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  F4-70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "44000",
+            "SellPrice": "51480",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-664 BLACK",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "75000",
+            "SellPrice": "99750",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER GUN TP-10/Z KANGARO",
+            "Merk": "KANGARO",
+            "Unit": "PCS",
+            "BuyPrice": "152500",
+            "SellPrice": "205000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MULTI PEMBAYARAN FFO-080",
+            "Unit": "BUKU",
+            "BuyPrice": "10000",
+            "SellPrice": "15750",
+            "Stock": "0"
+        },
+        {
+            "Name": "KARTU ABSEN AMANO PUTIH",
+            "Unit": "PAK",
+            "BuyPrice": "13500",
+            "SellPrice": "22000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  A4-70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "38500",
+            "SellPrice": "45045",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT TALI NO.311",
+            "Merk": "AIRMAIL",
+            "Unit": "PACK",
+            "BuyPrice": "75000",
+            "SellPrice": "145000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 6400 1040995",
+            "Merk": "IBM",
+            "Unit": "PCS",
+            "BuyPrice": "183000",
+            "SellPrice": "243390",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN MARKER BESAR 500",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "6900",
+            "SellPrice": "9315",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK FUJITSU DL-3800",
+            "Merk": "Fujitsu",
+            "Unit": "PCS",
+            "BuyPrice": "50000",
+            "SellPrice": "66500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DIGITAL THERMOHYGRO BNQ HTC 1",
+            "Merk": "BNQ",
+            "Unit": "PCS",
+            "BuyPrice": "120000",
+            "SellPrice": "177500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT PILOT HITAM",
+            "Unit": "PCS",
+            "BuyPrice": "1250",
+            "SellPrice": "1688",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR TELLSTRUK DR-140TM CASIO",
+            "Merk": "CASIO",
+            "Unit": "PCS",
+            "BuyPrice": "1040000",
+            "SellPrice": "1380000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGHAPUS GUNINDO WHITE BOARD WB-803",
+            "Unit": "PCS",
+            "BuyPrice": "3500",
+            "SellPrice": "5000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BATU BATERAY CIMOS LR-44 MAXELL",
+            "Merk": "MAXELL",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-300+BOX",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "50000",
+            "SellPrice": "66500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ENCODER FUJI 8800 ORG",
+            "Merk": "Fuji",
+            "Unit": "PCS",
+            "BuyPrice": "59000",
+            "SellPrice": "78470",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT EVERCOOS",
+            "Merk": "EVERCOOS",
+            "Unit": "LUSIN",
+            "BuyPrice": "0",
+            "SellPrice": "39000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FABER CASTELL TRIPEN",
+            "Merk": "FABER CASTELL",
+            "Unit": "LUSIN",
+            "BuyPrice": "20000",
+            "SellPrice": "29500",
+            "Stock": "0"
+        },
+        {
+            "Name": "RE-TYPE TYPE EX",
+            "Unit": "SET",
+            "BuyPrice": "4000",
+            "SellPrice": "5400",
+            "Stock": "0"
+        },
+        {
+            "Name": "CUTTER PLASTIK KENKO BESAR",
+            "Unit": "PCS",
+            "BuyPrice": "2950",
+            "SellPrice": "3983",
+            "Stock": "0"
+        },
+        {
+            "Name": "BINDER CLIP NO.105",
+            "Merk": "KENKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "1650",
+            "SellPrice": "3000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. B",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "23000",
+            "SellPrice": "31050",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP GANTUNG FUJITA 100",
+            "Merk": "FUJITA",
+            "Unit": "PACK",
+            "BuyPrice": "160000",
+            "SellPrice": "212000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT UNI-BALL GEL IMPACT",
+            "Merk": "UNI-BALL",
+            "Unit": "PCS",
+            "BuyPrice": "23000",
+            "SellPrice": "30500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SNOWMAN V-3",
+            "Merk": "SNOWMAN",
+            "Unit": "LSN",
+            "BuyPrice": "12000",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT MEJA DEBOZZ",
+            "Merk": "DEBOZ",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT BIC CAMPUR",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP GANTUNG BANTEX",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "6820",
+            "SellPrice": "9350",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER KECIL HD-10D MAX",
+            "Merk": "MAX",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "39750",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2090",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "149499",
+            "SellPrice": "212000",
+            "Stock": "0"
+        },
+        {
+            "Name": "STICKER TARIK / DORONG",
+            "Unit": "PCS",
+            "BuyPrice": "12500",
+            "SellPrice": "19500",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FASTER C-600",
+            "Merk": "FASTER",
+            "Unit": "LSN",
+            "BuyPrice": "24750",
+            "SellPrice": "33413",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI MANDIRI KSM ISI 50 PCS",
+            "Unit": "PACK",
+            "BuyPrice": "35000",
+            "SellPrice": "46500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON DFX 9000",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "180000",
+            "SellPrice": "239400",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI PROD DANA NON PERORANGAN",
+            "Unit": "BUKU",
+            "BuyPrice": "14000",
+            "SellPrice": "19950",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA SEIKOSHA 5780/SBP-1051",
+            "Merk": "SEIKO",
+            "Unit": "PCS",
+            "BuyPrice": "224000",
+            "SellPrice": "297920",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPAN TULIS WHITE BOARD 60X90CM GANTUNG",
+            "Merk": "SAKURA",
+            "Unit": "PCS",
+            "BuyPrice": "130000",
+            "SellPrice": "176000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KEYBOARD KABEL K-120 LOGITEC",
+            "Merk": "LOGITEC",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "95000",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN KECIL HIJAU",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1250",
+            "Stock": "0"
+        },
+        {
+            "Name": "TONER CARTRIDGE HP-05A",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "1140000",
+            "SellPrice": "1516200",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP KARTON BIOLA SNELLHEKTER",
+            "Unit": "PAK",
+            "BuyPrice": "55000",
+            "SellPrice": "74250",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM B4 14 7/8X11 4PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "395000",
+            "SellPrice": "462150",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR SDC-444S  12 DIGIT CITIZEN",
+            "Merk": "CITIZEN",
+            "Unit": "PCS",
+            "BuyPrice": "100000",
+            "SellPrice": "133500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL CANON G-2000 / GI-790 BLACK",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "146300",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO.A LEM",
+            "Merk": "GAND",
+            "Unit": "PACK",
+            "BuyPrice": "22500",
+            "SellPrice": "30500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-704 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "107000",
+            "SellPrice": "132668",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON 673 Y",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT TIZO 1,0",
+            "Merk": "TIZO",
+            "Unit": "LUSIN",
+            "BuyPrice": "25000",
+            "SellPrice": "37500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK & TALI NAME TAG JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM B1 14 7/8X11 1PLY",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "268500",
+            "SellPrice": "318000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK EPSON PLQ-20",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "66750",
+            "SellPrice": "120000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PEMBATAS INDEK KERTAS POLOS 10 TAB BANTEX 6010-00",
+            "Merk": "BANTEX",
+            "Unit": "PACK",
+            "BuyPrice": "15400",
+            "SellPrice": "22500",
+            "Stock": "0"
+        },
+        {
+            "Name": "STAPLER MAX HD-10",
+            "Unit": "PCS",
+            "BuyPrice": "12250",
+            "SellPrice": "17500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK POCKETS BANTEX 2044-08 ISI 10",
+            "Merk": "BANTEX",
+            "Unit": "PACK",
+            "BuyPrice": "8500",
+            "SellPrice": "11475",
+            "Stock": "0"
+        },
+        {
+            "Name": "FAX FILM PANASONIC KX-FA93",
+            "Merk": "PANASONIC",
+            "Unit": "ROLL",
+            "BuyPrice": "45000",
+            "SellPrice": "85000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4 70 WARNA",
+            "Merk": "SIDU",
+            "Unit": "RIM",
+            "BuyPrice": "55000",
+            "SellPrice": "64500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ERC-31",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "39900",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON",
+            "Merk": "TOTAL",
+            "Unit": "PCS",
+            "BuyPrice": "10000",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU EXPEDISI 100",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "6000",
+            "SellPrice": "9000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT GM AERO",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "22500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KANTONG KRESEK PLAY BOY NO.35",
+            "Unit": "PAK",
+            "BuyPrice": "19000",
+            "SellPrice": "32000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PEMINDAHAN KAS",
+            "Unit": "BUKU",
+            "BuyPrice": "8000",
+            "SellPrice": "13250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LQ-2180",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "60000",
+            "SellPrice": "110000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLASTIK AGUNAN POCKET F4",
+            "Merk": "REPY",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "5995",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA ENCODER MAVERIC MICR II",
+            "Merk": "PRINT RITE",
+            "Unit": "PCS",
+            "BuyPrice": "55000",
+            "SellPrice": "115000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SNOWMAN V-5",
+            "Merk": "SNOWMAN",
+            "Unit": "LUSIN",
+            "BuyPrice": "24000",
+            "SellPrice": "33500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL HP GT-52 MAGENTA",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "100000",
+            "SellPrice": "144000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN DAIMARU NYLON WARNA",
+            "Unit": "ROL",
+            "BuyPrice": "14500",
+            "SellPrice": "19575",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL MEKANIK CARINEX 0,5",
+            "Merk": "CARINEX",
+            "Unit": "PCS",
+            "BuyPrice": "3600",
+            "SellPrice": "8500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK BROTHER 1030",
+            "Merk": "Brother",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. D",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "50000",
+            "SellPrice": "73000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGGARIS  BUTTERFLY 20 CM",
+            "Unit": "PCS",
+            "BuyPrice": "650",
+            "SellPrice": "878",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT SARASA 0,5",
+            "Merk": "ZEBRA",
+            "Unit": "PCS",
+            "BuyPrice": "13750",
+            "SellPrice": "22500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ORDNER FOLIO 10CM BANTEX GREY",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "72188",
+            "SellPrice": "97500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA NCR-5675",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "26000",
+            "SellPrice": "34580",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU KWARTO 200",
+            "Merk": "MIRAGE",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "22000",
+            "Stock": "0"
+        },
+        {
+            "Name": "STEMPEL TANGGAL+TEX 2910/P-06 TRODAT",
+            "Merk": "TRODAT",
+            "Unit": "PCS",
+            "BuyPrice": "135000",
+            "SellPrice": "232750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FASTER C-6",
+            "Merk": "FASTER",
+            "Unit": "LUSIN",
+            "BuyPrice": "24500",
+            "SellPrice": "33500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK IBM 9068 / S-01",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "39900",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIP-EX ROLL",
+            "Unit": "PCS",
+            "BuyPrice": "3250",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SETORAN INKASO / TRANSFER 3 PLY",
+            "Unit": "BUKU",
+            "BuyPrice": "11500",
+            "SellPrice": "15750",
+            "Stock": "0"
+        },
+        {
+            "Name": "ACRYLICK TULISAN TARIK/DORONG",
+            "Unit": "PCS",
+            "BuyPrice": "25000",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR SDC-812 CITIZEN",
+            "Merk": "CITIZEN",
+            "Unit": "PCS",
+            "BuyPrice": "58000",
+            "SellPrice": "77500",
+            "Stock": "0"
+        },
+        {
+            "Name": "FLASH DISK 16 GB",
+            "Merk": "SANDISK",
+            "Unit": "PCS",
+            "BuyPrice": "50000",
+            "SellPrice": "85000",
+            "Stock": "0"
+        },
+        {
+            "Name": "CD SONY READ 700 MB",
+            "Unit": "PCS",
+            "BuyPrice": "6500",
+            "SellPrice": "8775",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI BENING PANFIK 1X72",
+            "Unit": "ROL",
+            "BuyPrice": "13000",
+            "SellPrice": "17550",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A4 70 SIDU WARNA",
+            "Merk": "SIDU",
+            "Unit": "RIM",
+            "BuyPrice": "0",
+            "SellPrice": "52750",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT UMUM PEMBUKAAN REKENING / SUPR",
+            "Unit": "PACK",
+            "BuyPrice": "20000",
+            "SellPrice": "28750",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP UANG SEDANG BSM",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "55000",
+            "SellPrice": "73000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT FRANCE FLAG AGPA-1702",
+            "Merk": "FRANCE FLAG",
+            "Unit": "PCS",
+            "BuyPrice": "4500",
+            "SellPrice": "5985",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM UHU CAIR 33ML",
+            "Unit": "PCS",
+            "BuyPrice": "4200",
+            "SellPrice": "5670",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT DEBOSS 0,5",
+            "Unit": "PCS",
+            "BuyPrice": "500",
+            "SellPrice": "675",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS F4 70 GRAM",
+            "Merk": "ZAP",
+            "Unit": "RIM",
+            "BuyPrice": "41500",
+            "SellPrice": "48500",
+            "Stock": "0"
+        },
+        {
+            "Name": "DESK  KENKO NO.8312",
+            "Unit": "PCS",
+            "BuyPrice": "21500",
+            "SellPrice": "29025",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU ANATA KWITANSI SEDANG",
+            "Unit": "PCS",
+            "BuyPrice": "750",
+            "SellPrice": "1013",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN GOLD 1 1/2 INC HITAM",
+            "Unit": "ROL",
+            "BuyPrice": "5500",
+            "SellPrice": "7425",
+            "Stock": "0"
+        },
+        {
+            "Name": "RAK SURAT 3 SUSUN BESI V-TEC",
+            "Merk": "V-TEC",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "142000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIP-EX PENTEL PEN",
+            "Unit": "PCS",
+            "BuyPrice": "19500",
+            "SellPrice": "26325",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS PHOTO GLOSSY SPECTRA COLOR A4",
+            "Unit": "PAK",
+            "BuyPrice": "20000",
+            "SellPrice": "27000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LX-310",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "55000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT F4 MANDIRI NO.D",
+            "Merk": "REPY",
+            "Unit": "PACK",
+            "BuyPrice": "85000",
+            "SellPrice": "113000",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP KECIL NO.110",
+            "Merk": "JAYA",
+            "Unit": "PACK",
+            "BuyPrice": "11750",
+            "SellPrice": "15863",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LX-300",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "30000",
+            "SellPrice": "53500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK FULMARK IROYALSE500",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "14000",
+            "SellPrice": "18620",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL CANON G-2000 / GI-790 YELLOW",
+            "Merk": "CANON",
+            "Unit": "PCS",
+            "BuyPrice": "95000",
+            "SellPrice": "146300",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLIP BOARD WITH COVER BANTEX",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "27500",
+            "SellPrice": "37750",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT UNICUE ISI 3 WARNA",
+            "Unit": "PCS",
+            "BuyPrice": "3050",
+            "SellPrice": "4118",
+            "Stock": "0"
+        },
+        {
+            "Name": "CARTRIDGE HP GP-51",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "110000",
+            "SellPrice": "157500",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. C",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "31000",
+            "SellPrice": "41850",
+            "Stock": "0"
+        },
+        {
+            "Name": "AMPLOP COKLAT NO. D LEM",
+            "Merk": "SAMSON",
+            "Unit": "PACK",
+            "BuyPrice": "37000",
+            "SellPrice": "59000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENGHAPUS JOYKO EB-30",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "3375",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PASSBOOK TALLY TG-5040",
+            "Merk": "GENICOM",
+            "Unit": "PCS",
+            "BuyPrice": "165000",
+            "SellPrice": "215000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL HP DESKJET 5152/5800/5810 PG-51 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "81000",
+            "SellPrice": "115000",
+            "Stock": "0"
+        },
+        {
+            "Name": "COMPUTER BINDER KENKO KECIL",
+            "Unit": "PCS",
+            "BuyPrice": "22200",
+            "SellPrice": "29970",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT GEL JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "LUSIN",
+            "BuyPrice": "0",
+            "SellPrice": "19000",
+            "Stock": "0"
+        },
+        {
+            "Name": "MAP KUM MANDIRI",
+            "Unit": "PCS",
+            "BuyPrice": "3300",
+            "SellPrice": "4450",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA REFILL EPSON LQ-2180",
+            "Merk": "Epson",
+            "Unit": "PCS",
+            "BuyPrice": "8500",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM KAYU 350 GRAM FOX",
+            "Merk": "FOX",
+            "Unit": "PACK",
+            "BuyPrice": "7500",
+            "SellPrice": "12500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-678 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "98750",
+            "SellPrice": "131338",
+            "Stock": "0"
+        },
+        {
+            "Name": "APLIKASI UMUM FFO-005",
+            "Unit": "BUKU",
+            "BuyPrice": "10000",
+            "SellPrice": "14000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA COMPUPRINT SP-40 PLUS",
+            "Merk": "COMPATIBLE",
+            "Unit": "PCS",
+            "BuyPrice": "205000",
+            "SellPrice": "287500",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT SIGN HERE",
+            "Merk": "T & J",
+            "Unit": "PACK",
+            "BuyPrice": "6000",
+            "SellPrice": "11000",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS CONT. FORM K5:2 9,5X11 5PLY PRS",
+            "Merk": "PAPER LINE",
+            "Unit": "BOX",
+            "BuyPrice": "348000",
+            "SellPrice": "407160",
+            "Stock": "0"
+        },
+        {
+            "Name": "POST IT BESAR NO.655 76X127MM",
+            "Merk": "POST IT",
+            "Unit": "PACK",
+            "BuyPrice": "19900",
+            "SellPrice": "27500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS  F4-80 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Unit": "RIM",
+            "BuyPrice": "57000",
+            "SellPrice": "66500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-310 / GT-51 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "81000",
+            "SellPrice": "107000",
+            "Stock": "0"
+        },
+        {
+            "Name": "NUMERATOR 7 DIGIT GREAT WALL",
+            "Merk": "GREAT WALL",
+            "Unit": "PCS",
+            "BuyPrice": "155000",
+            "SellPrice": "206000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPER BAG COKLAT",
+            "Merk": "REPY",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "0",
+            "Stock": "0"
+        },
+        {
+            "Name": "SETORAN INKASO / TRANSFER 2 PLY",
+            "Unit": "BUKU",
+            "BuyPrice": "9000",
+            "SellPrice": "13000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TIPE EX ROLL CT-551 JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "0",
+            "SellPrice": "9500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA MSN TIK BROTHER 8020",
+            "Merk": "Brother",
+            "Unit": "PCS",
+            "BuyPrice": "35000",
+            "SellPrice": "45000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BUKU BINTANG OBOR CEK & GIRO",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "30375",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISOLASI DAICHI DUBLE TAPE 1\"",
+            "Unit": "ROL",
+            "BuyPrice": "2500",
+            "SellPrice": "7500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA EPSON LX-300",
+            "Merk": "HP NYLON",
+            "Unit": "PCS",
+            "BuyPrice": "22500",
+            "SellPrice": "35000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT AODEMEI GEL PEN GP-2851",
+            "Merk": "GEL PEN",
+            "Unit": "LUSIN",
+            "BuyPrice": "24500",
+            "SellPrice": "33500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PROG REKOMENDASI CABANG",
+            "Unit": "BUKU",
+            "BuyPrice": "12000",
+            "SellPrice": "15960",
+            "Stock": "0"
+        },
+        {
+            "Name": "CALCULATOR KECIL CC-38 JOYKO",
+            "Merk": "JOYKO",
+            "Unit": "PCS",
+            "BuyPrice": "24500",
+            "SellPrice": "32500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON T-001 COLOR",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "65000",
+            "SellPrice": "99500",
+            "Stock": "0"
+        },
+        {
+            "Name": "KERTAS HVS A4-70 GRAM",
+            "Merk": "COPY PAPER",
+            "Unit": "RIM",
+            "BuyPrice": "33000",
+            "SellPrice": "43500",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL HP DESKJET 5152/5800/5810 PG-53 BLACK",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "81000",
+            "SellPrice": "112000",
+            "Stock": "0"
+        },
+        {
+            "Name": "LEM FOX 350 GR  KAN",
+            "Unit": "KAN",
+            "BuyPrice": "6500",
+            "SellPrice": "12500",
+            "Stock": "0"
+        },
+        {
+            "Name": "ISI BALLPOINT BIC HITAM",
+            "Merk": "BIC",
+            "Unit": "PCS",
+            "BuyPrice": "2500",
+            "SellPrice": "4000",
+            "Stock": "0"
+        },
+        {
+            "Name": "WALK IN CUSTOMER (WIC)",
+            "Unit": "BUKU",
+            "BuyPrice": "10500",
+            "SellPrice": "13965",
+            "Stock": "0"
+        },
+        {
+            "Name": "PAPAN TULIS WHITE BOARD 90X120CM GANTUNG",
+            "Merk": "SAKURA",
+            "Unit": "PCS",
+            "BuyPrice": "295000",
+            "SellPrice": "362000",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR FIZZ 101 HITAM",
+            "Unit": "PCS",
+            "BuyPrice": "12250",
+            "SellPrice": "20000",
+            "Stock": "0"
+        },
+        {
+            "Name": "PENSIL HB KAYU",
+            "Unit": "PCS",
+            "BuyPrice": "1000",
+            "SellPrice": "1350",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-678 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "98750",
+            "SellPrice": "131338",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT PILOT BPT-P",
+            "Unit": "LSN",
+            "BuyPrice": "16000",
+            "SellPrice": "21600",
+            "Stock": "0"
+        },
+        {
+            "Name": "CLIP BOARD FC BANTEX 4205-01",
+            "Merk": "BANTEX",
+            "Unit": "PCS",
+            "BuyPrice": "11500",
+            "SellPrice": "19750",
+            "Stock": "0"
+        },
+        {
+            "Name": "CD VERBATIM READ WRITE",
+            "Unit": "PCS",
+            "BuyPrice": "7500",
+            "SellPrice": "10125",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX SP-200",
+            "Merk": "Fullmark",
+            "Unit": "PCS",
+            "BuyPrice": "17500",
+            "SellPrice": "23275",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT STANDAR BOLDLINER ELITE 1,0",
+            "Merk": "STANDAR",
+            "Unit": "PCS",
+            "BuyPrice": "9180",
+            "SellPrice": "17500",
+            "Stock": "0"
+        },
+        {
+            "Name": "SYARAT KHUSUS PEMBUKAAN REKENING",
+            "Unit": "BUKU",
+            "BuyPrice": "10500",
+            "SellPrice": "13965",
+            "Stock": "0"
+        },
+        {
+            "Name": "REKENING KORAN",
+            "Unit": "BUKU",
+            "BuyPrice": "14500",
+            "SellPrice": "21000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL EPSON 673 M",
+            "Merk": "EPSON",
+            "Unit": "PCS",
+            "BuyPrice": "125000",
+            "SellPrice": "166250",
+            "Stock": "0"
+        },
+        {
+            "Name": "PLAKBAN JOYKO 1 INC HITAM",
+            "Unit": "ROL",
+            "BuyPrice": "6500",
+            "SellPrice": "8775",
+            "Stock": "0"
+        },
+        {
+            "Name": "BALLPOINT KENKO K1 BIRU",
+            "Merk": "KENKO",
+            "Unit": "PCS",
+            "BuyPrice": "3500",
+            "SellPrice": "5500",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA REFILL LX-300 7755 HP NYLON",
+            "Merk": "HP NYLON",
+            "Unit": "PCS",
+            "BuyPrice": "9000",
+            "SellPrice": "15000",
+            "Stock": "0"
+        },
+        {
+            "Name": "DATA CARTRIDGE SONY 90-P",
+            "Unit": "PCS",
+            "BuyPrice": "55000",
+            "SellPrice": "74250",
+            "Stock": "0"
+        },
+        {
+            "Name": "SPIDOL SNOWMAN PERAK KECIL",
+            "Merk": "SNOWMAN",
+            "Unit": "PCS",
+            "BuyPrice": "13000",
+            "SellPrice": "17550",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA CARTRIDGE HP-60 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "265000",
+            "SellPrice": "352450",
+            "Stock": "0"
+        },
+        {
+            "Name": "PITA PRINTRONIX GOLD SERRIES",
+            "Merk": "Printronix",
+            "Unit": "PCS",
+            "BuyPrice": "100000",
+            "SellPrice": "185000",
+            "Stock": "0"
+        },
+        {
+            "Name": "TINTA REFILL HP DESKJET 5152/5800/5810 PG-52 COLOR",
+            "Merk": "HP",
+            "Unit": "PCS",
+            "BuyPrice": "81000",
+            "SellPrice": "112500",
+            "Stock": "0"
+        }
+    ]
+}

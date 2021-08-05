@@ -1,0 +1,1533 @@
+{
+    "Sheet1": [
+        {
+            "CustomerName": "DANCING CRAB",
+            "NamaBarang": "BINDER CLIP NO.107",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "1708",
+            "Harga Jual": "4000",
+            "Diskon": "0",
+            "Profit": "2292"
+        },
+        {
+            "CustomerName": "DANCING CRAB",
+            "NamaBarang": "KERTAS BURAM RAJAWALI",
+            "Merk": "RAJAWALI",
+            "Satuan": "PACK",
+            "HPP": "25500",
+            "Harga Jual": "26500",
+            "Diskon": "0",
+            "Profit": "1000"
+        },
+        {
+            "CustomerName": "DANCING CRAB",
+            "NamaBarang": "KERTAS HVS A4 70 GRAM",
+            "Merk": "E-PAPER",
+            "Satuan": "RIM",
+            "HPP": "35000",
+            "Harga Jual": "43500",
+            "Diskon": "0",
+            "Profit": "8500"
+        },
+        {
+            "CustomerName": "DANCING CRAB",
+            "NamaBarang": "LAKBAN BENING 2 INCH",
+            "Merk": "LUVE TAPE",
+            "Satuan": "ROLL",
+            "HPP": "7650",
+            "Harga Jual": "12500",
+            "Diskon": "0",
+            "Profit": "4850"
+        },
+        {
+            "CustomerName": "DANCING CRAB",
+            "NamaBarang": "PLAKBAN GOLD 2 INC HITAM",
+            "Merk": "",
+            "Satuan": "ROL",
+            "HPP": "6500",
+            "Harga Jual": "13000",
+            "Diskon": "0",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BAK STEMPEL KENKO",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "4000",
+            "Harga Jual": "25000",
+            "Diskon": "5",
+            "Profit": "19750"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BALLPOINT BIC 4 WARNA",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "8750",
+            "Harga Jual": "11750",
+            "Diskon": "5",
+            "Profit": "2412.5"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BALLPOINT STANDAR AE-7",
+            "Merk": "",
+            "Satuan": "LSN",
+            "HPP": "13000",
+            "Harga Jual": "19800",
+            "Diskon": "5",
+            "Profit": "5810"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BATERAY ABC ALKALINE A3",
+            "Merk": "ABC",
+            "Satuan": "PCS",
+            "HPP": "3750",
+            "Harga Jual": "6500",
+            "Diskon": "5",
+            "Profit": "2425"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BATERAY ABC ALKALINE AA",
+            "Merk": "ABC",
+            "Satuan": "PCS",
+            "HPP": "3875",
+            "Harga Jual": "5500",
+            "Diskon": "0",
+            "Profit": "1625"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BUKU  FOLIO 100 MIRAGE",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "12500",
+            "Harga Jual": "16500",
+            "Diskon": "5",
+            "Profit": "3175"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BUKU EXPEDISI 100",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "6000",
+            "Harga Jual": "7500",
+            "Diskon": "0",
+            "Profit": "1500"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BUKU KWARTO 100",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "6000",
+            "Harga Jual": "7500",
+            "Diskon": "0",
+            "Profit": "1500"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "BUKU SINAR DUNIA KWITANSI SEDANG 40T",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "2000",
+            "Harga Jual": "5000",
+            "Diskon": "5",
+            "Profit": "2750"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "CUTTER KENKO KECIL A-300",
+            "Satuan": "PCS",
+            "HPP": "4250",
+            "Harga Jual": "5500",
+            "Diskon": "0",
+            "Profit": "1250"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "CUTTER KENKO L-500",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "10550",
+            "Harga Jual": "13750",
+            "Diskon": "5",
+            "Profit": "2512.5"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "DOUBLE FOAM BRAND TAPE 1 INC",
+            "Merk": "",
+            "Satuan": "ROL",
+            "HPP": "8500",
+            "Harga Jual": "13000",
+            "Diskon": "5",
+            "Profit": "3850"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "DOUBLE TAPE 1 INC KENKO",
+            "Merk": "KENKO",
+            "Satuan": "ROLL",
+            "HPP": "5000",
+            "Harga Jual": "7500",
+            "Diskon": "5",
+            "Profit": "2125"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "DOUBLE TAPE 1/2 INC KENKO",
+            "Merk": "KENKO",
+            "Satuan": "ROLL",
+            "HPP": "2500",
+            "Harga Jual": "3500",
+            "Diskon": "5",
+            "Profit": "825"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "ISI CUTTER KENKO BESAR L-150",
+            "Satuan": "TUB",
+            "HPP": "3000",
+            "Harga Jual": "6000",
+            "Diskon": "5",
+            "Profit": "2700"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "ISI CUTTER KENKO KECIL A-100",
+            "Merk": "",
+            "Satuan": "TUB",
+            "HPP": "2500",
+            "Harga Jual": "3500",
+            "Diskon": "5",
+            "Profit": "825"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "ISI STEAPLER ETONA NO. 10",
+            "Merk": "ETONA",
+            "Satuan": "PACK",
+            "HPP": "19000",
+            "Harga Jual": "33000",
+            "Diskon": "5",
+            "Profit": "12350"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "KERTAS CONCOR TEBAL A4 210GR",
+            "Merk": "CONCOR",
+            "Satuan": "LEMBAR",
+            "HPP": "125",
+            "Harga Jual": "950",
+            "Diskon": "5",
+            "Profit": "777.5"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "KERTAS CONCOR TIPIS A4 90 GR",
+            "Merk": "CONCOR",
+            "Satuan": "LEMBAR",
+            "HPP": "125",
+            "Harga Jual": "650",
+            "Diskon": "5",
+            "Profit": "492.5"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "KERTAS HVS  A4-70 GRAM",
+            "Merk": "BOLA DUNIA",
+            "Satuan": "RIM",
+            "HPP": "38750",
+            "Harga Jual": "46500",
+            "Diskon": "5",
+            "Profit": "5425"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "KERTAS ROLL HVS NCR 75X60 3PLY PMK",
+            "Merk": "PRATAMA JAYA",
+            "Satuan": "ROLL",
+            "HPP": "5000",
+            "Harga Jual": "9850",
+            "Diskon": "5",
+            "Profit": "4357.5"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "KERTAS STRUK ATM THERMAL  80X75",
+            "Merk": "OTANI",
+            "Satuan": "ROLL",
+            "HPP": "12000",
+            "Harga Jual": "20000",
+            "Diskon": "0",
+            "Profit": "8000"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "MAP PLASTIK INTER-X JEPIT",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "8500",
+            "Harga Jual": "11500",
+            "Diskon": "5",
+            "Profit": "2425"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "PAPER CLIP KENKO JUMBO",
+            "Merk": "",
+            "Satuan": "BOX",
+            "HPP": "30000",
+            "Harga Jual": "36500",
+            "Diskon": "5",
+            "Profit": "4675"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "PAPER CLIP KENKO NO.3",
+            "Merk": "",
+            "Satuan": "BOX",
+            "HPP": "10500",
+            "Harga Jual": "16500",
+            "Diskon": "5",
+            "Profit": "5175"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "PLAKBAN GOLD 2 INC HITAM",
+            "Merk": "",
+            "Satuan": "ROL",
+            "HPP": "6500",
+            "Harga Jual": "13000",
+            "Diskon": "5",
+            "Profit": "5850"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "PLAKBAN NACHI 2 INC BENING",
+            "Merk": "NACHI",
+            "Satuan": "ROL",
+            "HPP": "8250",
+            "Harga Jual": "12500",
+            "Diskon": "5",
+            "Profit": "3625"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "PLAKBAN NACHI 2 INC COKLAT",
+            "Merk": "NACHI",
+            "Satuan": "ROL",
+            "HPP": "8250",
+            "Harga Jual": "12500",
+            "Diskon": "5",
+            "Profit": "3625"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "SPIDOL SNOWMAN KECIL CAMPUR",
+            "Merk": "SNOWMAN",
+            "Satuan": "PCS",
+            "HPP": "750",
+            "Harga Jual": "1000",
+            "Diskon": "5",
+            "Profit": "200"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "STAPLER MAX HD-10",
+            "Satuan": "PCS",
+            "HPP": "12250",
+            "Harga Jual": "16000",
+            "Diskon": "5",
+            "Profit": "2950"
+        },
+        {
+            "CustomerName": "DUSUN BAMBU RESTO",
+            "NamaBarang": "TINTA REFILL EPSON T-664 BLACK",
+            "Merk": "EPSON",
+            "Satuan": "PCS",
+            "HPP": "75000",
+            "Harga Jual": "99500",
+            "Diskon": "5",
+            "Profit": "19525"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "AMPLOP COKLAT NO. A",
+            "Merk": "FOX",
+            "Satuan": "PACK",
+            "HPP": "18000",
+            "Harga Jual": "20959",
+            "Diskon": "0",
+            "Profit": "2959"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "AMPLOP COKLAT NO. D LEM",
+            "Merk": "SAMSON",
+            "Satuan": "PACK",
+            "HPP": "37000",
+            "Harga Jual": "46750",
+            "Diskon": "0",
+            "Profit": "9750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "AMPLOP COKLAT NO.A LEM",
+            "Merk": "GAND",
+            "Satuan": "PACK",
+            "HPP": "22500",
+            "Harga Jual": "26750",
+            "Diskon": "0",
+            "Profit": "4250"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "AMPLOP KECIL NO.110",
+            "Merk": "JAYA",
+            "Satuan": "PACK",
+            "HPP": "11750",
+            "Harga Jual": "14500",
+            "Diskon": "0",
+            "Profit": "2750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BALLPOINT FASTER C-6",
+            "Merk": "FASTER",
+            "Satuan": "LUSIN",
+            "HPP": "24500",
+            "Harga Jual": "29500",
+            "Diskon": "0",
+            "Profit": "5000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BALLPOINT JOYKO GEL PEN GP-265",
+            "Merk": "JOYKO",
+            "Satuan": "LUSIN",
+            "HPP": "25000",
+            "Harga Jual": "40000",
+            "Diskon": "0",
+            "Profit": "15000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BALLPOINT SARASA 0,5",
+            "Merk": "ZEBRA",
+            "Satuan": "PCS",
+            "HPP": "13750",
+            "Harga Jual": "19500",
+            "Diskon": "0",
+            "Profit": "5750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BALLPOINT STANDAR AE-7",
+            "Merk": "",
+            "Satuan": "LSN",
+            "HPP": "13000",
+            "Harga Jual": "19000",
+            "Diskon": "0",
+            "Profit": "6000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BINDER CLIP NO.107",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "1708",
+            "Harga Jual": "3750",
+            "Diskon": "0",
+            "Profit": "2042"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BINDER CLIP NO.155",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "5500",
+            "Harga Jual": "8500",
+            "Diskon": "0",
+            "Profit": "3000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BINDER CLIP NO.260",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "14500",
+            "Harga Jual": "17500",
+            "Diskon": "0",
+            "Profit": "3000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU  FOLIO 100 MIRAGE",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "12500",
+            "Harga Jual": "17500",
+            "Diskon": "0",
+            "Profit": "5000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU DOUBLE FOLIO 100",
+            "Merk": "GELATIK",
+            "Satuan": "PCS",
+            "HPP": "27500",
+            "Harga Jual": "32250",
+            "Diskon": "0",
+            "Profit": "4750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU EXPEDISI 100",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "6000",
+            "Harga Jual": "8500",
+            "Diskon": "0",
+            "Profit": "2500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU FOLIO 200 MIRAGE",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "23500",
+            "Harga Jual": "29500",
+            "Diskon": "0",
+            "Profit": "6000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU FOLIO 300 MIRAGE",
+            "Merk": "MIRAGE",
+            "Satuan": "PCS",
+            "HPP": "32000",
+            "Harga Jual": "38500",
+            "Diskon": "0",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU FOLIO 500 BINTANG OBOR",
+            "Merk": "BINTANG OBOR",
+            "Satuan": "PCS",
+            "HPP": "90000",
+            "Harga Jual": "96500",
+            "Diskon": "0",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU KAS F4 80 SHEET",
+            "Merk": "KIKY",
+            "Satuan": "PCS",
+            "HPP": "12000",
+            "Harga Jual": "15000",
+            "Diskon": "0",
+            "Profit": "3000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "BUKU KWITANSI SEDANG SINAR LINE",
+            "Merk": "SINAR LINE",
+            "Satuan": "PCS",
+            "HPP": "0",
+            "Harga Jual": "5500",
+            "Diskon": "0",
+            "Profit": "5500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "CUTTER KENKO L-500",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "10550",
+            "Harga Jual": "14500",
+            "Diskon": "0",
+            "Profit": "3950"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "DOUBLE TAPE 1 INC KENKO",
+            "Merk": "KENKO",
+            "Satuan": "ROLL",
+            "HPP": "5000",
+            "Harga Jual": "7000",
+            "Diskon": "0",
+            "Profit": "2000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "DOUBLE TAPE 1/2 INC KENKO",
+            "Merk": "KENKO",
+            "Satuan": "ROLL",
+            "HPP": "2500",
+            "Harga Jual": "3500",
+            "Diskon": "0",
+            "Profit": "1000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "FLASH DISK  32 GB",
+            "Merk": "SANDISK",
+            "Satuan": "PCS",
+            "HPP": "65000",
+            "Harga Jual": "80000",
+            "Diskon": "0",
+            "Profit": "15000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "FLASH DISK 16 GB",
+            "Merk": "SANDISK",
+            "Satuan": "PCS",
+            "HPP": "50000",
+            "Harga Jual": "76000",
+            "Diskon": "0",
+            "Profit": "26000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "FLASH DISK 8 GB",
+            "Merk": "SANDISK",
+            "Satuan": "PCS",
+            "HPP": "45000",
+            "Harga Jual": "60000",
+            "Diskon": "0",
+            "Profit": "15000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "GUNTING KENKO KECIL KS-818",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "3600",
+            "Harga Jual": "6500",
+            "Diskon": "1",
+            "Profit": "2835"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "ISI STEAPLER MAX 3-1M",
+            "Merk": "",
+            "Satuan": "DUS",
+            "HPP": "70000",
+            "Harga Jual": "84000",
+            "Diskon": "0",
+            "Profit": "14000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "KERTAS BURAM RAJAWALI",
+            "Merk": "RAJAWALI",
+            "Satuan": "PACK",
+            "HPP": "25500",
+            "Harga Jual": "29500",
+            "Diskon": "0",
+            "Profit": "4000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "KERTAS HVS A4 70 GRAM",
+            "Merk": "E-PAPER",
+            "Satuan": "RIM",
+            "HPP": "35000",
+            "Harga Jual": "37500",
+            "Diskon": "0",
+            "Profit": "2500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "KERTAS HVS F4 70 GRAM",
+            "Merk": "E-PAPER",
+            "Satuan": "RIM",
+            "HPP": "40000",
+            "Harga Jual": "44363",
+            "Diskon": "0",
+            "Profit": "4363"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "KERTAS JILID BUFFALOW FOLIO",
+            "Merk": "",
+            "Satuan": "PAK",
+            "HPP": "28500",
+            "Harga Jual": "37750",
+            "Diskon": "0",
+            "Profit": "9250"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "KERTAS PHOTO GLOSSY DATA PRINT A4",
+            "Merk": "",
+            "Satuan": "PAK",
+            "HPP": "20000",
+            "Harga Jual": "27000",
+            "Diskon": "0",
+            "Profit": "7000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "LEM KERTAS DIAKOL",
+            "Merk": "DIAKOL",
+            "Satuan": "PCS",
+            "HPP": "5250",
+            "Harga Jual": "7500",
+            "Diskon": "0",
+            "Profit": "2250"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "LEM KERTAS DIAKOL 500ML",
+            "Merk": "DIAKOL",
+            "Satuan": "PCS",
+            "HPP": "0",
+            "Harga Jual": "18000",
+            "Diskon": "0",
+            "Profit": "18000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP BUSINEES FILE F4",
+            "Satuan": "PCS",
+            "HPP": "2083",
+            "Harga Jual": "3750",
+            "Diskon": "0",
+            "Profit": "1667"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP KARTON AS",
+            "Merk": "",
+            "Satuan": "PAK",
+            "HPP": "12000",
+            "Harga Jual": "18000",
+            "Diskon": "0",
+            "Profit": "6000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP KARTON BIOLA",
+            "Merk": "BIOLA",
+            "Satuan": "PACK",
+            "HPP": "52000",
+            "Harga Jual": "62500",
+            "Diskon": "0",
+            "Profit": "10500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP KARTON BIOLA SNELLHEKTER",
+            "Merk": "",
+            "Satuan": "PAK",
+            "HPP": "55000",
+            "Harga Jual": "67500",
+            "Diskon": "0",
+            "Profit": "12500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP PLASTIK INTER-X SNELHEKTER",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "8500",
+            "Harga Jual": "11475",
+            "Diskon": "0",
+            "Profit": "2975"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "MAP SNELHECTER F4 AS",
+            "Merk": "AS",
+            "Satuan": "PACK",
+            "HPP": "28000",
+            "Harga Jual": "32750",
+            "Diskon": "0",
+            "Profit": "4750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "ORDNER BENEX FOLIO",
+            "Satuan": "PCS",
+            "HPP": "13068",
+            "Harga Jual": "22325",
+            "Diskon": "0",
+            "Profit": "9257"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PAPER CLIP KENKO JUMBO",
+            "Merk": "",
+            "Satuan": "BOX",
+            "HPP": "30000",
+            "Harga Jual": "40500",
+            "Diskon": "0",
+            "Profit": "10500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PAPER CLIP KENKO NO.3",
+            "Merk": "",
+            "Satuan": "BOX",
+            "HPP": "10500",
+            "Harga Jual": "16500",
+            "Diskon": "0",
+            "Profit": "6000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PAPER PUNCH KENKO 40XL",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "16000",
+            "Harga Jual": "21500",
+            "Diskon": "0",
+            "Profit": "5500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PAPER PUNCH KENKO NO.30",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "7500",
+            "Harga Jual": "10125",
+            "Diskon": "0",
+            "Profit": "2625"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PAPER PUNCH KENKO NO.85",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "32500",
+            "Harga Jual": "45000",
+            "Diskon": "0",
+            "Profit": "12500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PENSIL STAEDLER 2B",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "2500",
+            "Harga Jual": "3375",
+            "Diskon": "0",
+            "Profit": "875"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PLAKBAN GOLD 2 INC HITAM",
+            "Merk": "",
+            "Satuan": "ROL",
+            "HPP": "6500",
+            "Harga Jual": "13000",
+            "Diskon": "0",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "PLAKBAN NACHI 2 INC BENING",
+            "Merk": "NACHI",
+            "Satuan": "ROL",
+            "HPP": "8250",
+            "Harga Jual": "12500",
+            "Diskon": "0",
+            "Profit": "4250"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "POST IT JARI 20X50MM",
+            "Merk": "T & J",
+            "Satuan": "PACK",
+            "HPP": "6000",
+            "Harga Jual": "9750",
+            "Diskon": "0",
+            "Profit": "3750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "POST IT SIGN HERE",
+            "Merk": "T & J",
+            "Satuan": "PACK",
+            "HPP": "6000",
+            "Harga Jual": "11000",
+            "Diskon": "0",
+            "Profit": "5000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "SPIDOL SNOWMAN BOARD MARKER",
+            "Merk": "SNOWMAN",
+            "Satuan": "PCS",
+            "HPP": "5125",
+            "Harga Jual": "7250",
+            "Diskon": "0",
+            "Profit": "2125"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "SPIDOL SNOWMAN KECIL CAMPUR",
+            "Merk": "SNOWMAN",
+            "Satuan": "PCS",
+            "HPP": "750",
+            "Harga Jual": "1250",
+            "Diskon": "0",
+            "Profit": "500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "STABILO BOSS 70/54",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "6500",
+            "Harga Jual": "8000",
+            "Diskon": "0",
+            "Profit": "1500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "STAPLER MAX HD-10",
+            "Satuan": "PCS",
+            "HPP": "12250",
+            "Harga Jual": "16000",
+            "Diskon": "0",
+            "Profit": "3750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "STAPLER MAX HD-50",
+            "Merk": "MAX",
+            "Satuan": "PCS",
+            "HPP": "55000",
+            "Harga Jual": "68500",
+            "Diskon": "0",
+            "Profit": "13500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "STAPLER SDI NO. 1140",
+            "Satuan": "PCS",
+            "HPP": "265000",
+            "Harga Jual": "332000",
+            "Diskon": "0",
+            "Profit": "67000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "STAPLER SDI NO. 1142 BESAR",
+            "Merk": "SDI",
+            "Satuan": "PCS",
+            "HPP": "553000",
+            "Harga Jual": "614500",
+            "Diskon": "0",
+            "Profit": "61500"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "TINTA REFILL EPSON T-664 BLACK",
+            "Merk": "EPSON",
+            "Satuan": "PCS",
+            "HPP": "75000",
+            "Harga Jual": "85000",
+            "Diskon": "0",
+            "Profit": "10000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "TINTA STAMP ARTLINE",
+            "Merk": "ARTLINE",
+            "Satuan": "PCS",
+            "HPP": "18000",
+            "Harga Jual": "25000",
+            "Diskon": "5",
+            "Profit": "5750"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "TINTA STAMP YAMURA",
+            "Merk": "YAMURA",
+            "Satuan": "PCS",
+            "HPP": "8500",
+            "Harga Jual": "9500",
+            "Diskon": "0",
+            "Profit": "1000"
+        },
+        {
+            "CustomerName": "KOPERASI PRIMKOPAD",
+            "NamaBarang": "TIPE EX  PEN KN-301 KENKO",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "2375",
+            "Harga Jual": "6000",
+            "Diskon": "0",
+            "Profit": "3625"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "AMPLOP UANG KECIL",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "23000",
+            "Harga Jual": "33500",
+            "Diskon": "10",
+            "Profit": "7150"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "AMPLOP UANG SEDANG",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "43000",
+            "Harga Jual": "57500",
+            "Diskon": "10",
+            "Profit": "8750"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "BALLPOINT PILOT BALL LINER",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "9500",
+            "Harga Jual": "17500",
+            "Diskon": "10",
+            "Profit": "6250"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "BALLPOINT SARASA 0,5",
+            "Merk": "ZEBRA",
+            "Satuan": "PCS",
+            "HPP": "13750",
+            "Harga Jual": "22500",
+            "Diskon": "10",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "BINDER CLIP NO.107",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "1708",
+            "Harga Jual": "4500",
+            "Diskon": "10",
+            "Profit": "2342"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "BINDER CLIP NO.155",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "5500",
+            "Harga Jual": "9500",
+            "Diskon": "10",
+            "Profit": "3050"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "BINDER CLIP NO.260",
+            "Merk": "KENKO",
+            "Satuan": "LUSIN",
+            "HPP": "14500",
+            "Harga Jual": "21000",
+            "Diskon": "10",
+            "Profit": "4400"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "COMPUTER FILE BANTEX BESAR",
+            "Satuan": "PCS",
+            "HPP": "43500",
+            "Harga Jual": "58500",
+            "Diskon": "10",
+            "Profit": "9150"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "KERTAS CONT. FORM B1 14 7/8X11 1PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "268500",
+            "Harga Jual": "315875",
+            "Diskon": "10",
+            "Profit": "15787.5"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "KERTAS CONT. FORM K1 9,5X11 1PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "172500",
+            "Harga Jual": "182000",
+            "Diskon": "0",
+            "Profit": "9500"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "KERTAS CONT. FORM K3 9,5X11 3PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "385000",
+            "Harga Jual": "448000",
+            "Diskon": "10",
+            "Profit": "18200"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "KERTAS CONT. FORM K4 9,5X11 4PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "252000",
+            "Harga Jual": "325000",
+            "Diskon": "10",
+            "Profit": "40500"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "KERTAS HVS  A4-70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Satuan": "RIM",
+            "HPP": "38500",
+            "Harga Jual": "51200",
+            "Diskon": "10",
+            "Profit": "7580"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "LABEL CORRECTION ENCODER MAVERIC",
+            "Merk": "GE",
+            "Satuan": "PAK",
+            "HPP": "275000",
+            "Harga Jual": "379000",
+            "Diskon": "10",
+            "Profit": "66100"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "LAKBAN BENING 2 INCH",
+            "Merk": "LUVE TAPE",
+            "Satuan": "ROLL",
+            "HPP": "7650",
+            "Harga Jual": "15000",
+            "Diskon": "10",
+            "Profit": "5850"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "ORDNER BENEX FOLIO",
+            "Satuan": "PCS",
+            "HPP": "13068",
+            "Harga Jual": "24750",
+            "Diskon": "10",
+            "Profit": "9207"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "ORDNER BENEX KWINTANSI",
+            "Satuan": "PCS",
+            "HPP": "13068",
+            "Harga Jual": "24750",
+            "Diskon": "10",
+            "Profit": "9207"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "PITA EPSON LQ-2090",
+            "Merk": "Epson",
+            "Satuan": "PCS",
+            "HPP": "149499",
+            "Harga Jual": "217500",
+            "Diskon": "10",
+            "Profit": "46251"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "PITA PASSBOOK EPSON PLQ-2O",
+            "Merk": "EPSON",
+            "Satuan": "BOX",
+            "HPP": "200000",
+            "Harga Jual": "360000",
+            "Diskon": "10",
+            "Profit": "124000"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "PITA PASSBOOK OLIEVETTY PR-2 ",
+            "Merk": "Hologram",
+            "Satuan": "PCS",
+            "HPP": "35000",
+            "Harga Jual": "95000",
+            "Diskon": "10",
+            "Profit": "50500"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "PITA PRINTRONIX P-8000 P/N 255049-103",
+            "Merk": "Printronix",
+            "Satuan": "PCS",
+            "HPP": "700000",
+            "Harga Jual": "824500",
+            "Diskon": "10",
+            "Profit": "42050"
+        },
+        {
+            "CustomerName": "PT. BANK BRI KANTOR CABANG NARIPAN BANDUNG",
+            "NamaBarang": "PLASTIK UANG BESAR/SEDANG",
+            "Merk": "",
+            "Satuan": "KG",
+            "HPP": "32000",
+            "Harga Jual": "47500",
+            "Diskon": "10",
+            "Profit": "10750"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "ADVIS KREDIT",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "11000",
+            "Harga Jual": "14750",
+            "Diskon": "7",
+            "Profit": "2717.5"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "AMPLOP COKLAT NO. A",
+            "Merk": "FOX",
+            "Satuan": "PACK",
+            "HPP": "18000",
+            "Harga Jual": "22000",
+            "Diskon": "8",
+            "Profit": "2240"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "BAK STEMPEL ARTLINE KECIL NO.0",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "19250",
+            "Harga Jual": "23389",
+            "Diskon": "0",
+            "Profit": "4139"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "OPTIMAZE OVERLAY DOTMARK",
+            "Merk": "GRAFITY",
+            "Satuan": "PCS",
+            "HPP": "16000",
+            "Harga Jual": "50600",
+            "Diskon": "0",
+            "Profit": "34600"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "PITA SEIKOSHA 5780/SBP-1051",
+            "Merk": "FULLMARK",
+            "Satuan": "PCS",
+            "HPP": "150000",
+            "Harga Jual": "191520",
+            "Diskon": "0",
+            "Profit": "41520"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG AHMAD YANI TIMUR",
+            "NamaBarang": "SPECTROLINE SIGNATURE",
+            "Merk": "Spectroline",
+            "Satuan": "PCS",
+            "HPP": "55000",
+            "Harga Jual": "101200",
+            "Diskon": "0",
+            "Profit": "46200"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG BURANGRANG",
+            "NamaBarang": "ADVIS DEBET",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "11000",
+            "Harga Jual": "15750",
+            "Diskon": "7",
+            "Profit": "3647.5"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG BURANGRANG",
+            "NamaBarang": "PITA SEIKOSHA 5780/SBP-1051",
+            "Merk": "FULLMARK",
+            "Satuan": "PCS",
+            "HPP": "150000",
+            "Harga Jual": "206416",
+            "Diskon": "0",
+            "Profit": "56416"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG PADALARANG",
+            "NamaBarang": "AMPLOP KABINET KACA KIRI NO.90 MANDIRI",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "66000",
+            "Harga Jual": "82500",
+            "Diskon": "10",
+            "Profit": "8250"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG PADALARANG",
+            "NamaBarang": "AMPLOP KABINET POLOS NO.90 MANDIRI",
+            "Merk": "REPY",
+            "Satuan": "PACK",
+            "HPP": "47000",
+            "Harga Jual": "62000",
+            "Diskon": "10",
+            "Profit": "8800"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG PADALARANG",
+            "NamaBarang": "LEM UHU STICK 21 GR",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "14000",
+            "Harga Jual": "21000",
+            "Diskon": "10",
+            "Profit": "4900"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG PADALARANG",
+            "NamaBarang": "LEM UHU STICK 8 GRM",
+            "Merk": "",
+            "Satuan": "PCS",
+            "HPP": "7500",
+            "Harga Jual": "10125",
+            "Diskon": "10",
+            "Profit": "1612.5"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP BANDUNG PADALARANG",
+            "NamaBarang": "MAP BUSINEES FILE F4",
+            "Satuan": "PCS",
+            "HPP": "2083",
+            "Harga Jual": "4000",
+            "Diskon": "10",
+            "Profit": "1517"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP RANCAEKEK",
+            "NamaBarang": "OPTIMAZE OVERLAY DOTMARK",
+            "Merk": "GRAFITY",
+            "Satuan": "PCS",
+            "HPP": "16000",
+            "Harga Jual": "110000",
+            "Diskon": "7",
+            "Profit": "86300"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP RANCAEKEK",
+            "NamaBarang": "SPECTROLINE SIGNATURE",
+            "Merk": "Spectroline",
+            "Satuan": "PCS",
+            "HPP": "55000",
+            "Harga Jual": "110000",
+            "Diskon": "7",
+            "Profit": "47300"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP RANCAEKEK",
+            "NamaBarang": "TISSUE KOTAK MULTI H TOWEL",
+            "Merk": "MULTI H TOWEL",
+            "Satuan": "PACK",
+            "HPP": "12000",
+            "Harga Jual": "13000",
+            "Diskon": "5",
+            "Profit": "350"
+        },
+        {
+            "CustomerName": "PT. BANK MANDIRI KCP RANCAEKEK",
+            "NamaBarang": "TISSUE ROLL NICE",
+            "Merk": "NICE",
+            "Satuan": "ROLL",
+            "HPP": "2667",
+            "Harga Jual": "3375",
+            "Diskon": "5",
+            "Profit": "539.25"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM B2 14 7/8X11 2PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "409750",
+            "Harga Jual": "459500",
+            "Diskon": "0",
+            "Profit": "49750"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM B4 14 7/8X11 4PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "395000",
+            "Harga Jual": "466500",
+            "Diskon": "0",
+            "Profit": "71500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K1 9,5X11 1PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "172500",
+            "Harga Jual": "182000",
+            "Diskon": "0",
+            "Profit": "9500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K2 9,5X11 2PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "236000",
+            "Harga Jual": "261500",
+            "Diskon": "0",
+            "Profit": "25500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K2:2 9,5X11 2PLY PRS",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "240000",
+            "Harga Jual": "267500",
+            "Diskon": "0",
+            "Profit": "27500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K3 9,5X11 3PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "385000",
+            "Harga Jual": "399000",
+            "Diskon": "0",
+            "Profit": "14000"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K3:2 9,5X11 3PLY PRS",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "396500",
+            "Harga Jual": "431730",
+            "Diskon": "0",
+            "Profit": "35230"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K4 9,5X11 4PLY",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "252000",
+            "Harga Jual": "283000",
+            "Diskon": "0",
+            "Profit": "31000"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS CONT. FORM K5:2 9,5X11 5PLY PRS",
+            "Merk": "PAPER LINE",
+            "Satuan": "BOX",
+            "HPP": "348000",
+            "Harga Jual": "407160",
+            "Diskon": "0",
+            "Profit": "59160"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS HVS  F4-70 GRAM",
+            "Merk": "SINAR DUNIA",
+            "Satuan": "RIM",
+            "HPP": "42000",
+            "Harga Jual": "47750",
+            "Diskon": "0",
+            "Profit": "5750"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "KERTAS HVS A4 70 GRAM",
+            "Merk": "DUNIA MAS",
+            "Satuan": "RIM",
+            "HPP": "35000",
+            "Harga Jual": "43500",
+            "Diskon": "0",
+            "Profit": "8500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA EPSON LQ-1170",
+            "Merk": "Epson",
+            "Satuan": "PCS",
+            "HPP": "30000",
+            "Harga Jual": "67500",
+            "Diskon": "0",
+            "Profit": "37500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA EPSON LQ-2180",
+            "Merk": "Fullmark",
+            "Satuan": "PCS",
+            "HPP": "60000",
+            "Harga Jual": "90000",
+            "Diskon": "0",
+            "Profit": "30000"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA EPSON LX-300",
+            "Merk": "Epson",
+            "Satuan": "PCS",
+            "HPP": "30000",
+            "Harga Jual": "53500",
+            "Diskon": "0",
+            "Profit": "23500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA EPSON LX-310",
+            "Merk": "Epson",
+            "Satuan": "PCS",
+            "HPP": "35000",
+            "Harga Jual": "55000",
+            "Diskon": "0",
+            "Profit": "20000"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA REFILL EPSON LQ-2180 ",
+            "Merk": "Epson",
+            "Satuan": "PCS",
+            "HPP": "8500",
+            "Harga Jual": "15000",
+            "Diskon": "0",
+            "Profit": "6500"
+        },
+        {
+            "CustomerName": "PT. MBS",
+            "NamaBarang": "PITA REFILL LX-300 7755 HP NYLON",
+            "Merk": "HP NYLON",
+            "Satuan": "PCS",
+            "HPP": "9000",
+            "Harga Jual": "12500",
+            "Diskon": "0",
+            "Profit": "3500"
+        }
+    ]
+}
